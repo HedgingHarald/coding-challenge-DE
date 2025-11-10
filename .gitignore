@@ -11,3 +11,4 @@ __pycache__/
 .env.production
 .vscode/
 config.py
+.ipynb_checkpoints/
