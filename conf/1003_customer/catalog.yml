@@ -1,0 +1,64 @@
+
+raw_deliveries_sales:
+  type: PartitionedDataset
+  path: ${filepath_prefix}/00_deliveries_sales
+  dataset:
+    type: kedro_datasets.text.TextDataset
+  filename_suffix: ".json"
+
+raw_products:
+  type: PartitionedDataset
+  path: ${filepath_prefix}/00_products
+  dataset:
+    type: kedro_datasets.text.TextDataset
+  filename_suffix: ".json"
+
+raw_prices:
+  type: PartitionedDataset
+  path: ${filepath_prefix}/00_prices
+  dataset:
+    type: kedro_datasets.text.TextDataset
+  filename_suffix: ".json"
+
+raw_stores:
+  type: PartitionedDataset
+  path: ${filepath_prefix}/00_stores
+  dataset:
+    type: kedro_datasets.text.TextDataset
+  filename_suffix: ".json"
+
+mapping_product:
+  type: kedro_datasets.pandas.ParquetDataset
+  filepath: ${filepath_prefix}/01_mappings/mapping_product.parquet
+
+mapping_store:
+  type: kedro_datasets.pandas.ParquetDataset
+  filepath: ${filepath_prefix}/01_mappings/mapping_store.parquet
+
+galaxy_intermediate_sales_deliveries:
+  type: kedro_datasets.pandas.ParquetDataset
+  filepath: ${filepath_prefix}/02_intermediate/sales_deliveries.parquet
+
+galaxy_intermediate_products:
+  type: kedro_datasets.pandas.ParquetDataset
+  filepath: ${filepath_prefix}/02_intermediate/products.parquet
+
+galaxy_intermediate_prices:
+  type: kedro_datasets.pandas.ParquetDataset
+  filepath: ${filepath_prefix}/02_intermediate/prices.parquet
+
+galaxy_intermediate_stores:
+  type: kedro_datasets.pandas.ParquetDataset
+  filepath: ${filepath_prefix}/02_intermediate/stores.parquet
+
+galaxy_primary_dataset:
+  type: kedro_datasets.pandas.ParquetDataset
+  filepath: ${filepath_prefix}/03_primary/complete_dataset.parquet
+
+galaxy_ml_dataset:
+  type: kedro_datasets.pandas.ParquetDataset
+  filepath: ${filepath_prefix}/03_primary/ml_dataset.parquet
+
+galaxy_app_dataset:
+  type: kedro_datasets.pandas.ParquetDataset
+  filepath: ${filepath_prefix}/03_primary/app_dataset.parquet

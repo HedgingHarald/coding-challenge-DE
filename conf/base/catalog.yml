@@ -1,0 +1,4 @@
+# Base catalog - shared data layer definitions
+# Customer-specific paths will override these in conf/{customer}/catalog.yml
+
+# This file defines the "shape" of data, but paths come from customer configs

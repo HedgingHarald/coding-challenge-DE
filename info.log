@@ -1,0 +1,1186 @@
+2025-11-09 15:41:20,614 - kedro.framework.session.session - INFO - Kedro project coding-challenge
+2025-11-09 15:41:20,627 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\framework\session\session.py:267: KedroDeprecationWarning: TemplatedConfigLoader will be deprecated in Kedro 0.19. Please use the OmegaConfigLoader instead. To consult the documentation for OmegaConfigLoader, see here: https://docs.kedro.org/en/stable/configuration/advanced_configuration.html#omegaconfigloader
+  warnings.warn(
+
+2025-11-09 15:41:20,657 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 15:43:25,952 - kedro.framework.session.session - INFO - Kedro project coding-challenge
+2025-11-09 15:43:25,964 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\framework\session\session.py:267: KedroDeprecationWarning: TemplatedConfigLoader will be deprecated in Kedro 0.19. Please use the OmegaConfigLoader instead. To consult the documentation for OmegaConfigLoader, see here: https://docs.kedro.org/en/stable/configuration/advanced_configuration.html#omegaconfigloader
+  warnings.warn(
+
+2025-11-09 15:43:25,985 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 15:43:58,272 - kedro.framework.session.session - INFO - Kedro project coding-challenge
+2025-11-09 15:43:58,284 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\framework\session\session.py:267: KedroDeprecationWarning: TemplatedConfigLoader will be deprecated in Kedro 0.19. Please use the OmegaConfigLoader instead. To consult the documentation for OmegaConfigLoader, see here: https://docs.kedro.org/en/stable/configuration/advanced_configuration.html#omegaconfigloader
+  warnings.warn(
+
+2025-11-09 15:43:58,304 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 15:46:03,025 - kedro.framework.session.session - INFO - Kedro project coding-challenge
+2025-11-09 15:46:03,037 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\framework\session\session.py:267: KedroDeprecationWarning: TemplatedConfigLoader will be deprecated in Kedro 0.19. Please use the OmegaConfigLoader instead. To consult the documentation for OmegaConfigLoader, see here: https://docs.kedro.org/en/stable/configuration/advanced_configuration.html#omegaconfigloader
+  warnings.warn(
+
+2025-11-09 15:46:03,058 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 15:46:39,234 - kedro.framework.session.session - INFO - Kedro project coding-challenge
+2025-11-09 15:46:39,246 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\framework\session\session.py:267: KedroDeprecationWarning: TemplatedConfigLoader will be deprecated in Kedro 0.19. Please use the OmegaConfigLoader instead. To consult the documentation for OmegaConfigLoader, see here: https://docs.kedro.org/en/stable/configuration/advanced_configuration.html#omegaconfigloader
+  warnings.warn(
+
+2025-11-09 15:46:39,268 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 15:49:33,838 - kedro.framework.session.session - INFO - Kedro project coding-challenge
+2025-11-09 15:49:33,851 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\framework\session\session.py:267: KedroDeprecationWarning: TemplatedConfigLoader will be deprecated in Kedro 0.19. Please use the OmegaConfigLoader instead. To consult the documentation for OmegaConfigLoader, see here: https://docs.kedro.org/en/stable/configuration/advanced_configuration.html#omegaconfigloader
+  warnings.warn(
+
+2025-11-09 15:49:35,320 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 15:49:35,326 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 15:49:35,349 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1001_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-09 15:49:36,279 - kedro.io.data_catalog - INFO - Loading data from 'raw_deliveries' (PartitionedDataset)...
+2025-11-09 15:49:36,279 - kedro.pipeline.node - INFO - Running node: process_deliveries: process_delivery_files([raw_deliveries]) -> [intermediate_deliveries]
+2025-11-09 15:49:36,279 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Processing 7 delivery files
+2025-11-09 15:49:36,289 - kedro.pipeline.node - ERROR - Node 'process_deliveries: process_delivery_files([raw_deliveries]) -> [intermediate_deliveries]' failed with error: 
+'function' object has no attribute 'copy'
+2025-11-09 15:49:36,290 - kedro.runner.sequential_runner - WARNING - No nodes ran. Repeat the previous command to attempt a new run.
+2025-11-09 15:50:15,526 - kedro.framework.session.session - INFO - Kedro project coding-challenge
+2025-11-09 15:50:15,540 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\framework\session\session.py:267: KedroDeprecationWarning: TemplatedConfigLoader will be deprecated in Kedro 0.19. Please use the OmegaConfigLoader instead. To consult the documentation for OmegaConfigLoader, see here: https://docs.kedro.org/en/stable/configuration/advanced_configuration.html#omegaconfigloader
+  warnings.warn(
+
+2025-11-09 15:50:15,817 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 15:50:15,823 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 15:50:15,848 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1001_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-09 15:50:16,398 - kedro.io.data_catalog - INFO - Loading data from 'raw_deliveries' (PartitionedDataset)...
+2025-11-09 15:50:16,399 - kedro.pipeline.node - INFO - Running node: process_deliveries: process_delivery_files([raw_deliveries]) -> [intermediate_deliveries]
+2025-11-09 15:50:16,400 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Processing 7 delivery files
+2025-11-09 15:50:16,432 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 15:50:16,442 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 15:50:16,450 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 15:50:16,459 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 15:50:16,468 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 15:50:16,473 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Processed 65 unique delivery records
+2025-11-09 15:50:16,479 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_deliveries' (ParquetDataset)...
+2025-11-09 15:50:16,481 - kedro.runner.sequential_runner - WARNING - No nodes ran. Repeat the previous command to attempt a new run.
+2025-11-09 15:51:23,051 - kedro.framework.session.session - INFO - Kedro project coding-challenge
+2025-11-09 15:51:23,065 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\framework\session\session.py:267: KedroDeprecationWarning: TemplatedConfigLoader will be deprecated in Kedro 0.19. Please use the OmegaConfigLoader instead. To consult the documentation for OmegaConfigLoader, see here: https://docs.kedro.org/en/stable/configuration/advanced_configuration.html#omegaconfigloader
+  warnings.warn(
+
+2025-11-09 15:51:23,546 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 15:51:23,553 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 15:51:23,579 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1001_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-09 15:51:24,150 - kedro.io.data_catalog - INFO - Loading data from 'raw_deliveries' (PartitionedDataset)...
+2025-11-09 15:51:24,152 - kedro.pipeline.node - INFO - Running node: process_deliveries: process_delivery_files([raw_deliveries]) -> [intermediate_deliveries]
+2025-11-09 15:51:24,153 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Processing 7 delivery files
+2025-11-09 15:51:24,161 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 15:51:24,163 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 15:51:24,166 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 15:51:24,168 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 15:51:24,170 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 15:51:24,175 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Processed 65 unique delivery records
+2025-11-09 15:51:24,181 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_deliveries' (ParquetDataset)...
+2025-11-09 15:51:24,333 - kedro.runner.sequential_runner - WARNING - No nodes ran. Repeat the previous command to attempt a new run.
+2025-11-09 15:51:47,303 - kedro.framework.session.session - INFO - Kedro project coding-challenge
+2025-11-09 15:51:47,316 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\framework\session\session.py:267: KedroDeprecationWarning: TemplatedConfigLoader will be deprecated in Kedro 0.19. Please use the OmegaConfigLoader instead. To consult the documentation for OmegaConfigLoader, see here: https://docs.kedro.org/en/stable/configuration/advanced_configuration.html#omegaconfigloader
+  warnings.warn(
+
+2025-11-09 15:51:47,634 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 15:51:47,639 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 15:51:47,665 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1001_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-09 15:51:48,191 - kedro.io.data_catalog - INFO - Loading data from 'raw_deliveries' (PartitionedDataset)...
+2025-11-09 15:51:48,193 - kedro.pipeline.node - INFO - Running node: process_deliveries: process_delivery_files([raw_deliveries]) -> [intermediate_deliveries]
+2025-11-09 15:51:48,194 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Processing 7 delivery files
+2025-11-09 15:51:48,201 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 15:51:48,204 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 15:51:48,206 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 15:51:48,208 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 15:51:48,211 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 15:51:48,217 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Processed 47 unique delivery records
+2025-11-09 15:51:48,225 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_deliveries' (ParquetDataset)...
+2025-11-09 15:51:48,242 - kedro.runner.sequential_runner - INFO - Completed 1 out of 7 tasks
+2025-11-09 15:51:48,243 - kedro.io.data_catalog - INFO - Loading data from 'raw_products' (PartitionedDataset)...
+2025-11-09 15:51:48,244 - kedro.pipeline.node - INFO - Running node: process_products: process_product_master([raw_products]) -> [intermediate_products]
+2025-11-09 15:51:48,245 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Processing 7 product files
+2025-11-09 15:51:48,274 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Loaded 3 products
+2025-11-09 15:51:48,278 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_products' (ParquetDataset)...
+2025-11-09 15:51:48,282 - kedro.runner.sequential_runner - INFO - Completed 2 out of 7 tasks
+2025-11-09 15:51:48,283 - kedro.io.data_catalog - INFO - Loading data from 'raw_sales' (PartitionedDataset)...
+2025-11-09 15:51:48,284 - kedro.pipeline.node - INFO - Running node: process_sales: process_sales_files([raw_sales]) -> [intermediate_sales]
+2025-11-09 15:51:48,285 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Processing 7 sales files
+2025-11-09 15:51:48,316 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 15:51:48,326 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 15:51:48,336 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 15:51:48,345 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 15:51:48,349 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Processed 45 unique sales records
+2025-11-09 15:51:48,355 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_sales' (ParquetDataset)...
+2025-11-09 15:51:48,360 - kedro.runner.sequential_runner - INFO - Completed 3 out of 7 tasks
+2025-11-09 15:51:48,360 - kedro.io.data_catalog - INFO - Loading data from 'raw_stores' (PartitionedDataset)...
+2025-11-09 15:51:48,361 - kedro.pipeline.node - INFO - Running node: process_stores: process_store_master([raw_stores]) -> [intermediate_stores]
+2025-11-09 15:51:48,362 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Processing 7 store files
+2025-11-09 15:51:48,384 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Loaded 2 stores
+2025-11-09 15:51:48,387 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_stores' (ParquetDataset)...
+2025-11-09 15:51:48,390 - kedro.runner.sequential_runner - INFO - Completed 4 out of 7 tasks
+2025-11-09 15:51:48,391 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_sales' (ParquetDataset)...
+2025-11-09 15:51:48,686 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_deliveries' (ParquetDataset)...
+2025-11-09 15:51:48,698 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_products' (ParquetDataset)...
+2025-11-09 15:51:48,709 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_stores' (ParquetDataset)...
+2025-11-09 15:51:48,724 - kedro.io.data_catalog - INFO - Loading data from 'mapping_product' (ParquetDataset)...
+2025-11-09 15:51:48,728 - kedro.io.data_catalog - INFO - Loading data from 'mapping_store' (ParquetDataset)...
+2025-11-09 15:51:48,740 - kedro.pipeline.node - INFO - Running node: join_all_data: join_all_data([intermediate_sales,intermediate_deliveries,intermediate_products,intermediate_stores,mapping_product,mapping_store]) -> [primary_dataset]
+2025-11-09 15:51:48,741 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Joining all data sources
+2025-11-09 15:51:48,746 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Created 71 final records
+2025-11-09 15:51:48,766 - kedro.io.data_catalog - INFO - Saving data to 'primary_dataset' (ParquetDataset)...
+2025-11-09 15:51:48,775 - kedro.runner.sequential_runner - INFO - Completed 5 out of 7 tasks
+2025-11-09 15:51:48,775 - kedro.io.data_catalog - INFO - Loading data from 'primary_dataset' (ParquetDataset)...
+2025-11-09 15:51:48,796 - kedro.pipeline.node - INFO - Running node: create_app_dataset: create_app_dataset([primary_dataset]) -> [app_dataset]
+2025-11-09 15:51:48,810 - kedro.io.data_catalog - INFO - Saving data to 'app_dataset' (ParquetDataset)...
+2025-11-09 15:51:48,819 - kedro.runner.sequential_runner - INFO - Completed 6 out of 7 tasks
+2025-11-09 15:51:48,819 - kedro.io.data_catalog - INFO - Loading data from 'primary_dataset' (ParquetDataset)...
+2025-11-09 15:51:48,831 - kedro.pipeline.node - INFO - Running node: create_ml_dataset: create_ml_dataset([primary_dataset]) -> [ml_dataset]
+2025-11-09 15:51:48,842 - kedro.io.data_catalog - INFO - Saving data to 'ml_dataset' (ParquetDataset)...
+2025-11-09 15:51:48,847 - kedro.runner.sequential_runner - INFO - Completed 7 out of 7 tasks
+2025-11-09 15:51:48,848 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.
+2025-11-09 20:29:43,933 - kedro.framework.session.session - INFO - Kedro project coding-challenge
+2025-11-09 20:29:43,947 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\framework\session\session.py:267: KedroDeprecationWarning: TemplatedConfigLoader will be deprecated in Kedro 0.19. Please use the OmegaConfigLoader instead. To consult the documentation for OmegaConfigLoader, see here: https://docs.kedro.org/en/stable/configuration/advanced_configuration.html#omegaconfigloader
+  warnings.warn(
+
+2025-11-09 20:29:43,981 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 20:29:44,254 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 20:29:44,282 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1002_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-09 20:29:44,846 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1002_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-09 20:29:44,848 - kedro.io.data_catalog - INFO - Loading data from 'raw_deliveries' (PartitionedDataset)...
+2025-11-09 20:29:44,849 - kedro.pipeline.node - INFO - Running node: process_deliveries: process_delivery_files([raw_deliveries]) -> [intermediate_deliveries]
+2025-11-09 20:29:44,850 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Processing 3 delivery files
+2025-11-09 20:29:44,878 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 20:29:44,886 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 20:29:44,893 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Processed 80 unique delivery records
+2025-11-09 20:29:44,899 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_deliveries' (ParquetDataset)...
+2025-11-09 20:29:44,911 - kedro.runner.sequential_runner - INFO - Completed 1 out of 7 tasks
+2025-11-09 20:29:44,912 - kedro.io.data_catalog - INFO - Loading data from 'raw_products' (PartitionedDataset)...
+2025-11-09 20:29:44,913 - kedro.pipeline.node - INFO - Running node: process_products: process_product_master([raw_products]) -> [intermediate_products]
+2025-11-09 20:29:44,914 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Processing 3 product files
+2025-11-09 20:29:44,930 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Loaded 3 products
+2025-11-09 20:29:44,935 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_products' (ParquetDataset)...
+2025-11-09 20:29:44,939 - kedro.runner.sequential_runner - INFO - Completed 2 out of 7 tasks
+2025-11-09 20:29:44,939 - kedro.io.data_catalog - INFO - Loading data from 'raw_sales' (PartitionedDataset)...
+2025-11-09 20:29:44,940 - kedro.pipeline.node - INFO - Running node: process_sales: process_sales_files([raw_sales]) -> [intermediate_sales]
+2025-11-09 20:29:44,941 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Processing 3 sales files
+2025-11-09 20:29:44,954 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 20:29:44,962 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 20:29:44,966 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Processed 68 unique sales records
+2025-11-09 20:29:44,971 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_sales' (ParquetDataset)...
+2025-11-09 20:29:44,976 - kedro.runner.sequential_runner - INFO - Completed 3 out of 7 tasks
+2025-11-09 20:29:44,977 - kedro.io.data_catalog - INFO - Loading data from 'raw_stores' (PartitionedDataset)...
+2025-11-09 20:29:44,978 - kedro.pipeline.node - INFO - Running node: process_stores: process_store_master([raw_stores]) -> [intermediate_stores]
+2025-11-09 20:29:44,978 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Processing 3 store files
+2025-11-09 20:29:44,990 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Loaded 2 stores
+2025-11-09 20:29:44,994 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_stores' (ParquetDataset)...
+2025-11-09 20:29:44,998 - kedro.runner.sequential_runner - INFO - Completed 4 out of 7 tasks
+2025-11-09 20:29:44,998 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_sales' (ParquetDataset)...
+2025-11-09 20:29:45,023 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_deliveries' (ParquetDataset)...
+2025-11-09 20:29:45,033 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_products' (ParquetDataset)...
+2025-11-09 20:29:45,042 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_stores' (ParquetDataset)...
+2025-11-09 20:29:45,048 - kedro.io.data_catalog - INFO - Loading data from 'mapping_product' (ParquetDataset)...
+2025-11-09 20:29:45,052 - kedro.io.data_catalog - INFO - Loading data from 'mapping_store' (ParquetDataset)...
+2025-11-09 20:29:45,075 - kedro.pipeline.node - INFO - Running node: join_all_data: join_all_data([intermediate_sales,intermediate_deliveries,intermediate_products,intermediate_stores,mapping_product,mapping_store]) -> [primary_dataset]
+2025-11-09 20:29:45,076 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Joining all data sources
+2025-11-09 20:29:45,082 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Created 96 final records
+2025-11-09 20:29:45,101 - kedro.io.data_catalog - INFO - Saving data to 'primary_dataset' (ParquetDataset)...
+2025-11-09 20:29:45,110 - kedro.runner.sequential_runner - INFO - Completed 5 out of 7 tasks
+2025-11-09 20:29:45,111 - kedro.io.data_catalog - INFO - Loading data from 'primary_dataset' (ParquetDataset)...
+2025-11-09 20:29:45,132 - kedro.pipeline.node - INFO - Running node: create_app_dataset: create_app_dataset([primary_dataset]) -> [app_dataset]
+2025-11-09 20:29:45,149 - kedro.io.data_catalog - INFO - Saving data to 'app_dataset' (ParquetDataset)...
+2025-11-09 20:29:45,157 - kedro.runner.sequential_runner - INFO - Completed 6 out of 7 tasks
+2025-11-09 20:29:45,158 - kedro.io.data_catalog - INFO - Loading data from 'primary_dataset' (ParquetDataset)...
+2025-11-09 20:29:45,171 - kedro.pipeline.node - INFO - Running node: create_ml_dataset: create_ml_dataset([primary_dataset]) -> [ml_dataset]
+2025-11-09 20:29:45,182 - kedro.io.data_catalog - INFO - Saving data to 'ml_dataset' (ParquetDataset)...
+2025-11-09 20:29:45,187 - kedro.runner.sequential_runner - INFO - Completed 7 out of 7 tasks
+2025-11-09 20:29:45,187 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.
+2025-11-09 20:33:07,797 - kedro.framework.session.session - INFO - Kedro project coding-challenge
+2025-11-09 20:33:07,810 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\framework\session\session.py:267: KedroDeprecationWarning: TemplatedConfigLoader will be deprecated in Kedro 0.19. Please use the OmegaConfigLoader instead. To consult the documentation for OmegaConfigLoader, see here: https://docs.kedro.org/en/stable/configuration/advanced_configuration.html#omegaconfigloader
+  warnings.warn(
+
+2025-11-09 20:33:07,831 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 20:33:07,836 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 20:33:08,110 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1003_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-09 20:33:08,630 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 20:33:08,653 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1003_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-09 20:33:08,654 - kedro.io.data_catalog - INFO - Loading data from 'raw_deliveries_sales' (PartitionedDataset)...
+2025-11-09 20:33:08,655 - kedro.pipeline.node - INFO - Running node: process_deliveries_sales_json: process_deliveries_sales_json([raw_deliveries_sales]) -> [galaxy_intermediate_sales_deliveries]
+2025-11-09 20:33:08,656 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Processing 1 JSON files
+2025-11-09 20:33:08,657 - kedro.pipeline.node - ERROR - Node 'process_deliveries_sales_json: process_deliveries_sales_json([raw_deliveries_sales]) -> [galaxy_intermediate_sales_deliveries]' failed with error: 
+'method' object is not subscriptable
+2025-11-09 20:33:08,658 - kedro.runner.sequential_runner - WARNING - No nodes ran. Repeat the previous command to attempt a new run.
+2025-11-09 20:33:18,334 - kedro.framework.session.session - INFO - Kedro project coding-challenge
+2025-11-09 20:33:18,347 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\framework\session\session.py:267: KedroDeprecationWarning: TemplatedConfigLoader will be deprecated in Kedro 0.19. Please use the OmegaConfigLoader instead. To consult the documentation for OmegaConfigLoader, see here: https://docs.kedro.org/en/stable/configuration/advanced_configuration.html#omegaconfigloader
+  warnings.warn(
+
+2025-11-09 20:33:18,369 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 20:33:18,374 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 20:33:18,653 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1003_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-09 20:33:19,190 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 20:33:19,213 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1003_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-09 20:33:19,215 - kedro.io.data_catalog - INFO - Loading data from 'raw_deliveries_sales' (PartitionedDataset)...
+2025-11-09 20:33:19,215 - kedro.pipeline.node - INFO - Running node: process_deliveries_sales_json: process_deliveries_sales_json([raw_deliveries_sales]) -> [galaxy_intermediate_sales_deliveries]
+2025-11-09 20:33:19,216 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Processing 1 JSON files
+2025-11-09 20:33:19,218 - kedro.pipeline.node - ERROR - Node 'process_deliveries_sales_json: process_deliveries_sales_json([raw_deliveries_sales]) -> [galaxy_intermediate_sales_deliveries]' failed with error: 
+'method' object is not subscriptable
+2025-11-09 20:33:19,219 - kedro.runner.sequential_runner - WARNING - No nodes ran. Repeat the previous command to attempt a new run.
+2025-11-09 20:33:54,148 - kedro.framework.session.session - INFO - Kedro project coding-challenge
+2025-11-09 20:33:54,162 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\framework\session\session.py:267: KedroDeprecationWarning: TemplatedConfigLoader will be deprecated in Kedro 0.19. Please use the OmegaConfigLoader instead. To consult the documentation for OmegaConfigLoader, see here: https://docs.kedro.org/en/stable/configuration/advanced_configuration.html#omegaconfigloader
+  warnings.warn(
+
+2025-11-09 20:33:54,183 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 20:33:54,188 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 20:33:54,470 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1003_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-09 20:33:55,016 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 20:33:55,041 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1003_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-09 20:33:55,042 - kedro.io.data_catalog - INFO - Loading data from 'raw_deliveries_sales' (PartitionedDataset)...
+2025-11-09 20:33:55,043 - kedro.pipeline.node - INFO - Running node: process_deliveries_sales_json: process_deliveries_sales_json([raw_deliveries_sales]) -> [galaxy_intermediate_sales_deliveries]
+2025-11-09 20:33:55,044 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Processing 1 JSON files
+2025-11-09 20:33:55,046 - kedro.pipeline.node - ERROR - Node 'process_deliveries_sales_json: process_deliveries_sales_json([raw_deliveries_sales]) -> [galaxy_intermediate_sales_deliveries]' failed with error: 
+time data "13/08/25" doesn't match format "%m/%d/%y", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-11-09 20:33:55,048 - kedro.runner.sequential_runner - WARNING - No nodes ran. Repeat the previous command to attempt a new run.
+2025-11-09 20:34:12,742 - kedro.framework.session.session - INFO - Kedro project coding-challenge
+2025-11-09 20:34:12,756 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\framework\session\session.py:267: KedroDeprecationWarning: TemplatedConfigLoader will be deprecated in Kedro 0.19. Please use the OmegaConfigLoader instead. To consult the documentation for OmegaConfigLoader, see here: https://docs.kedro.org/en/stable/configuration/advanced_configuration.html#omegaconfigloader
+  warnings.warn(
+
+2025-11-09 20:34:12,777 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 20:34:12,783 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 20:34:13,069 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1003_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-09 20:34:13,616 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 20:34:13,637 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1003_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-09 20:34:13,637 - kedro.io.data_catalog - INFO - Loading data from 'raw_deliveries_sales' (PartitionedDataset)...
+2025-11-09 20:34:13,637 - kedro.pipeline.node - INFO - Running node: process_deliveries_sales_json: process_deliveries_sales_json([raw_deliveries_sales]) -> [galaxy_intermediate_sales_deliveries]
+2025-11-09 20:34:13,637 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Processing 1 JSON files
+2025-11-09 20:34:13,653 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Processed 52 unique sales/delivery records
+2025-11-09 20:34:13,663 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_intermediate_sales_deliveries' (ParquetDataset)...
+2025-11-09 20:34:13,683 - kedro.runner.sequential_runner - INFO - Completed 1 out of 7 tasks
+2025-11-09 20:34:13,684 - kedro.io.data_catalog - INFO - Loading data from 'raw_prices' (PartitionedDataset)...
+2025-11-09 20:34:13,685 - kedro.pipeline.node - INFO - Running node: process_prices_json: process_prices_json([raw_prices]) -> [galaxy_intermediate_prices]
+2025-11-09 20:34:13,685 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Processing 1 price JSON files
+2025-11-09 20:34:13,686 - kedro.pipeline.node - ERROR - Node 'process_prices_json: process_prices_json([raw_prices]) -> [galaxy_intermediate_prices]' failed with error: 
+string indices must be integers
+2025-11-09 20:34:13,687 - kedro.runner.sequential_runner - WARNING - There are 6 nodes that have not run.
+You can resume the pipeline run from the nearest nodes with persisted inputs by adding the following argument to your previous command:
+  --from-nodes "process_stores_json,process_products_json,join_galaxy_data,process_prices_json"
+2025-11-09 20:35:18,462 - kedro.framework.session.session - INFO - Kedro project coding-challenge
+2025-11-09 20:35:18,475 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\framework\session\session.py:267: KedroDeprecationWarning: TemplatedConfigLoader will be deprecated in Kedro 0.19. Please use the OmegaConfigLoader instead. To consult the documentation for OmegaConfigLoader, see here: https://docs.kedro.org/en/stable/configuration/advanced_configuration.html#omegaconfigloader
+  warnings.warn(
+
+2025-11-09 20:35:18,498 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 20:35:18,503 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 20:35:18,794 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1003_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-09 20:35:19,348 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 20:35:19,371 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1003_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-09 20:35:19,372 - kedro.io.data_catalog - INFO - Loading data from 'raw_deliveries_sales' (PartitionedDataset)...
+2025-11-09 20:35:19,373 - kedro.pipeline.node - INFO - Running node: process_deliveries_sales_json: process_deliveries_sales_json([raw_deliveries_sales]) -> [galaxy_intermediate_sales_deliveries]
+2025-11-09 20:35:19,374 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Processing 1 JSON files
+2025-11-09 20:35:19,382 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Processed 52 unique sales/delivery records
+2025-11-09 20:35:19,387 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_intermediate_sales_deliveries' (ParquetDataset)...
+2025-11-09 20:35:19,411 - kedro.runner.sequential_runner - INFO - Completed 1 out of 7 tasks
+2025-11-09 20:35:19,412 - kedro.io.data_catalog - INFO - Loading data from 'raw_prices' (PartitionedDataset)...
+2025-11-09 20:35:19,413 - kedro.pipeline.node - INFO - Running node: process_prices_json: process_prices_json([raw_prices]) -> [galaxy_intermediate_prices]
+2025-11-09 20:35:19,414 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Processing 1 price JSON files
+2025-11-09 20:35:19,415 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Loaded prices for 2 products
+2025-11-09 20:35:19,417 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_intermediate_prices' (ParquetDataset)...
+2025-11-09 20:35:19,420 - kedro.runner.sequential_runner - INFO - Completed 2 out of 7 tasks
+2025-11-09 20:35:19,421 - kedro.io.data_catalog - INFO - Loading data from 'raw_products' (PartitionedDataset)...
+2025-11-09 20:35:19,422 - kedro.pipeline.node - INFO - Running node: process_products_json: process_products_json([raw_products]) -> [galaxy_intermediate_products]
+2025-11-09 20:35:19,422 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Processing 1 product JSON files
+2025-11-09 20:35:19,422 - kedro.pipeline.node - ERROR - Node 'process_products_json: process_products_json([raw_products]) -> [galaxy_intermediate_products]' failed with error: 
+invalid literal for int() with base 10: '1.000'
+2025-11-09 20:35:19,422 - kedro.runner.sequential_runner - WARNING - There are 5 nodes that have not run.
+You can resume the pipeline run from the nearest nodes with persisted inputs by adding the following argument to your previous command:
+  --from-nodes "join_galaxy_data,process_products_json,process_stores_json"
+2025-11-09 20:35:40,091 - kedro.framework.session.session - INFO - Kedro project coding-challenge
+2025-11-09 20:35:40,104 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\framework\session\session.py:267: KedroDeprecationWarning: TemplatedConfigLoader will be deprecated in Kedro 0.19. Please use the OmegaConfigLoader instead. To consult the documentation for OmegaConfigLoader, see here: https://docs.kedro.org/en/stable/configuration/advanced_configuration.html#omegaconfigloader
+  warnings.warn(
+
+2025-11-09 20:35:40,126 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 20:35:40,131 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 20:35:40,420 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1003_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-09 20:35:41,001 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 20:35:41,023 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1003_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-09 20:35:41,025 - kedro.io.data_catalog - INFO - Loading data from 'raw_deliveries_sales' (PartitionedDataset)...
+2025-11-09 20:35:41,025 - kedro.pipeline.node - INFO - Running node: process_deliveries_sales_json: process_deliveries_sales_json([raw_deliveries_sales]) -> [galaxy_intermediate_sales_deliveries]
+2025-11-09 20:35:41,026 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Processing 1 JSON files
+2025-11-09 20:35:41,034 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Processed 52 unique sales/delivery records
+2025-11-09 20:35:41,046 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_intermediate_sales_deliveries' (ParquetDataset)...
+2025-11-09 20:35:41,062 - kedro.runner.sequential_runner - INFO - Completed 1 out of 7 tasks
+2025-11-09 20:35:41,063 - kedro.io.data_catalog - INFO - Loading data from 'raw_prices' (PartitionedDataset)...
+2025-11-09 20:35:41,064 - kedro.pipeline.node - INFO - Running node: process_prices_json: process_prices_json([raw_prices]) -> [galaxy_intermediate_prices]
+2025-11-09 20:35:41,065 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Processing 1 price JSON files
+2025-11-09 20:35:41,065 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Loaded prices for 2 products
+2025-11-09 20:35:41,068 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_intermediate_prices' (ParquetDataset)...
+2025-11-09 20:35:41,071 - kedro.runner.sequential_runner - INFO - Completed 2 out of 7 tasks
+2025-11-09 20:35:41,071 - kedro.io.data_catalog - INFO - Loading data from 'raw_products' (PartitionedDataset)...
+2025-11-09 20:35:41,072 - kedro.pipeline.node - INFO - Running node: process_products_json: process_products_json([raw_products]) -> [galaxy_intermediate_products]
+2025-11-09 20:35:41,073 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Processing 1 product JSON files
+2025-11-09 20:35:41,074 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Loaded 2 products
+2025-11-09 20:35:41,076 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_intermediate_products' (ParquetDataset)...
+2025-11-09 20:35:41,076 - kedro.runner.sequential_runner - INFO - Completed 3 out of 7 tasks
+2025-11-09 20:35:41,076 - kedro.io.data_catalog - INFO - Loading data from 'raw_stores' (PartitionedDataset)...
+2025-11-09 20:35:41,076 - kedro.pipeline.node - INFO - Running node: process_stores_json: process_stores_json([raw_stores]) -> [galaxy_intermediate_stores]
+2025-11-09 20:35:41,076 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Processing 1 store JSON files
+2025-11-09 20:35:41,076 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Loaded 2 stores
+2025-11-09 20:35:41,076 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_intermediate_stores' (ParquetDataset)...
+2025-11-09 20:35:41,090 - kedro.runner.sequential_runner - INFO - Completed 4 out of 7 tasks
+2025-11-09 20:35:41,090 - kedro.io.data_catalog - INFO - Loading data from 'galaxy_intermediate_sales_deliveries' (ParquetDataset)...
+2025-11-09 20:35:41,116 - kedro.io.data_catalog - INFO - Loading data from 'galaxy_intermediate_products' (ParquetDataset)...
+2025-11-09 20:35:41,127 - kedro.io.data_catalog - INFO - Loading data from 'galaxy_intermediate_prices' (ParquetDataset)...
+2025-11-09 20:35:41,128 - kedro.io.data_catalog - INFO - Loading data from 'galaxy_intermediate_stores' (ParquetDataset)...
+2025-11-09 20:35:41,144 - kedro.io.data_catalog - INFO - Loading data from 'mapping_product' (ParquetDataset)...
+2025-11-09 20:35:41,152 - kedro.io.data_catalog - INFO - Loading data from 'mapping_store' (ParquetDataset)...
+2025-11-09 20:35:41,171 - kedro.pipeline.node - INFO - Running node: join_galaxy_data: join_galaxy_data([galaxy_intermediate_sales_deliveries,galaxy_intermediate_products,galaxy_intermediate_prices,galaxy_intermediate_stores,mapping_product,mapping_store]) -> [galaxy_primary_dataset]
+2025-11-09 20:35:41,172 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Joining all Galaxy data sources
+2025-11-09 20:35:41,176 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Created 52 final records
+2025-11-09 20:35:41,201 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_primary_dataset' (ParquetDataset)...
+2025-11-09 20:35:41,210 - kedro.runner.sequential_runner - INFO - Completed 5 out of 7 tasks
+2025-11-09 20:35:41,211 - kedro.io.data_catalog - INFO - Loading data from 'galaxy_primary_dataset' (ParquetDataset)...
+2025-11-09 20:35:41,234 - kedro.pipeline.node - INFO - Running node: galaxy_create_app_dataset: create_app_dataset([galaxy_primary_dataset]) -> [galaxy_app_dataset]
+2025-11-09 20:35:41,255 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_app_dataset' (ParquetDataset)...
+2025-11-09 20:35:41,264 - kedro.runner.sequential_runner - INFO - Completed 6 out of 7 tasks
+2025-11-09 20:35:41,265 - kedro.io.data_catalog - INFO - Loading data from 'galaxy_primary_dataset' (ParquetDataset)...
+2025-11-09 20:35:41,280 - kedro.pipeline.node - INFO - Running node: galaxy_create_ml_dataset: create_ml_dataset([galaxy_primary_dataset]) -> [galaxy_ml_dataset]
+2025-11-09 20:35:41,294 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_ml_dataset' (ParquetDataset)...
+2025-11-09 20:35:41,300 - kedro.runner.sequential_runner - INFO - Completed 7 out of 7 tasks
+2025-11-09 20:35:41,301 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.
+2025-11-09 21:09:51,473 - kedro.framework.session.session - INFO - Kedro project coding-challenge
+2025-11-09 21:09:51,489 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\framework\session\session.py:267: KedroDeprecationWarning: TemplatedConfigLoader will be deprecated in Kedro 0.19. Please use the OmegaConfigLoader instead. To consult the documentation for OmegaConfigLoader, see here: https://docs.kedro.org/en/stable/configuration/advanced_configuration.html#omegaconfigloader
+  warnings.warn(
+
+2025-11-09 21:09:51,524 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 21:09:51,781 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 21:09:51,819 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1001_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-09 21:09:52,364 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1001_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-09 21:09:52,364 - kedro.io.data_catalog - INFO - Loading data from 'raw_deliveries' (PartitionedDataset)...
+2025-11-09 21:09:52,364 - kedro.pipeline.node - INFO - Running node: process_deliveries: process_delivery_files([raw_deliveries]) -> [intermediate_deliveries]
+2025-11-09 21:09:52,364 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Processing 7 delivery files
+2025-11-09 21:09:52,396 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 21:09:52,402 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 21:09:52,412 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 21:09:52,422 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 21:09:52,431 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 21:09:52,439 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Processed 47 unique delivery records
+2025-11-09 21:09:52,447 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_deliveries' (ParquetDataset)...
+2025-11-09 21:09:52,462 - kedro.runner.sequential_runner - INFO - Completed 1 out of 7 tasks
+2025-11-09 21:09:52,464 - kedro.io.data_catalog - INFO - Loading data from 'raw_products' (PartitionedDataset)...
+2025-11-09 21:09:52,466 - kedro.pipeline.node - INFO - Running node: process_products: process_product_master([raw_products]) -> [intermediate_products]
+2025-11-09 21:09:52,467 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Processing 7 product files
+2025-11-09 21:09:52,492 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Loaded 3 products
+2025-11-09 21:09:52,498 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_products' (ParquetDataset)...
+2025-11-09 21:09:52,502 - kedro.runner.sequential_runner - INFO - Completed 2 out of 7 tasks
+2025-11-09 21:09:52,505 - kedro.io.data_catalog - INFO - Loading data from 'raw_sales' (PartitionedDataset)...
+2025-11-09 21:09:52,506 - kedro.pipeline.node - INFO - Running node: process_sales: process_sales_files([raw_sales]) -> [intermediate_sales]
+2025-11-09 21:09:52,507 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Processing 7 sales files
+2025-11-09 21:09:52,531 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 21:09:52,540 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 21:09:52,544 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 21:09:52,552 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 21:09:52,559 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Processed 45 unique sales records
+2025-11-09 21:09:52,565 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_sales' (ParquetDataset)...
+2025-11-09 21:09:52,568 - kedro.runner.sequential_runner - INFO - Completed 3 out of 7 tasks
+2025-11-09 21:09:52,571 - kedro.io.data_catalog - INFO - Loading data from 'raw_stores' (PartitionedDataset)...
+2025-11-09 21:09:52,573 - kedro.pipeline.node - INFO - Running node: process_stores: process_store_master([raw_stores]) -> [intermediate_stores]
+2025-11-09 21:09:52,573 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Processing 7 store files
+2025-11-09 21:09:52,595 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Loaded 2 stores
+2025-11-09 21:09:52,600 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_stores' (ParquetDataset)...
+2025-11-09 21:09:52,605 - kedro.runner.sequential_runner - INFO - Completed 4 out of 7 tasks
+2025-11-09 21:09:52,606 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_sales' (ParquetDataset)...
+2025-11-09 21:09:52,629 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_deliveries' (ParquetDataset)...
+2025-11-09 21:09:52,644 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_products' (ParquetDataset)...
+2025-11-09 21:09:52,649 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_stores' (ParquetDataset)...
+2025-11-09 21:09:52,664 - kedro.io.data_catalog - INFO - Loading data from 'mapping_product' (ParquetDataset)...
+2025-11-09 21:09:52,674 - kedro.io.data_catalog - INFO - Loading data from 'mapping_store' (ParquetDataset)...
+2025-11-09 21:09:52,694 - kedro.pipeline.node - INFO - Running node: join_all_data: join_all_data([intermediate_sales,intermediate_deliveries,intermediate_products,intermediate_stores,mapping_product,mapping_store]) -> [primary_dataset]
+2025-11-09 21:09:52,696 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Joining all data sources
+2025-11-09 21:09:52,701 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Created 71 final records
+2025-11-09 21:09:52,724 - kedro.io.data_catalog - INFO - Saving data to 'primary_dataset' (ParquetDataset)...
+2025-11-09 21:09:52,733 - kedro.runner.sequential_runner - INFO - Completed 5 out of 7 tasks
+2025-11-09 21:09:52,735 - kedro.io.data_catalog - INFO - Loading data from 'primary_dataset' (ParquetDataset)...
+2025-11-09 21:09:52,756 - kedro.pipeline.node - INFO - Running node: create_app_dataset: create_app_dataset([primary_dataset]) -> [app_dataset]
+2025-11-09 21:09:52,773 - kedro.io.data_catalog - INFO - Saving data to 'app_dataset' (ParquetDataset)...
+2025-11-09 21:09:52,781 - kedro.runner.sequential_runner - INFO - Completed 6 out of 7 tasks
+2025-11-09 21:09:52,782 - kedro.io.data_catalog - INFO - Loading data from 'primary_dataset' (ParquetDataset)...
+2025-11-09 21:09:52,798 - kedro.pipeline.node - INFO - Running node: create_ml_dataset: create_ml_dataset([primary_dataset]) -> [ml_dataset]
+2025-11-09 21:09:52,810 - kedro.io.data_catalog - INFO - Saving data to 'ml_dataset' (ParquetDataset)...
+2025-11-09 21:09:52,815 - kedro.runner.sequential_runner - INFO - Completed 7 out of 7 tasks
+2025-11-09 21:09:52,816 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.
+2025-11-09 21:10:30,962 - kedro.framework.session.session - INFO - Kedro project coding-challenge
+2025-11-09 21:10:30,979 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\framework\session\session.py:267: KedroDeprecationWarning: TemplatedConfigLoader will be deprecated in Kedro 0.19. Please use the OmegaConfigLoader instead. To consult the documentation for OmegaConfigLoader, see here: https://docs.kedro.org/en/stable/configuration/advanced_configuration.html#omegaconfigloader
+  warnings.warn(
+
+2025-11-09 21:10:31,006 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 21:10:31,244 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 21:10:31,281 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1002_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-09 21:10:31,855 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1002_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-09 21:10:31,855 - kedro.io.data_catalog - INFO - Loading data from 'raw_deliveries' (PartitionedDataset)...
+2025-11-09 21:10:31,855 - kedro.pipeline.node - INFO - Running node: process_deliveries: process_delivery_files([raw_deliveries]) -> [intermediate_deliveries]
+2025-11-09 21:10:31,855 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Processing 3 delivery files
+2025-11-09 21:10:31,870 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 21:10:31,873 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 21:10:31,879 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Processed 80 unique delivery records
+2025-11-09 21:10:31,885 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_deliveries' (ParquetDataset)...
+2025-11-09 21:10:31,896 - kedro.runner.sequential_runner - INFO - Completed 1 out of 7 tasks
+2025-11-09 21:10:31,896 - kedro.io.data_catalog - INFO - Loading data from 'raw_products' (PartitionedDataset)...
+2025-11-09 21:10:31,896 - kedro.pipeline.node - INFO - Running node: process_products: process_product_master([raw_products]) -> [intermediate_products]
+2025-11-09 21:10:31,896 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Processing 3 product files
+2025-11-09 21:10:31,905 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Loaded 3 products
+2025-11-09 21:10:31,910 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_products' (ParquetDataset)...
+2025-11-09 21:10:31,915 - kedro.runner.sequential_runner - INFO - Completed 2 out of 7 tasks
+2025-11-09 21:10:31,915 - kedro.io.data_catalog - INFO - Loading data from 'raw_sales' (PartitionedDataset)...
+2025-11-09 21:10:31,916 - kedro.pipeline.node - INFO - Running node: process_sales: process_sales_files([raw_sales]) -> [intermediate_sales]
+2025-11-09 21:10:31,917 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Processing 3 sales files
+2025-11-09 21:10:31,920 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 21:10:31,923 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-09 21:10:31,928 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Processed 68 unique sales records
+2025-11-09 21:10:31,934 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_sales' (ParquetDataset)...
+2025-11-09 21:10:31,939 - kedro.runner.sequential_runner - INFO - Completed 3 out of 7 tasks
+2025-11-09 21:10:31,940 - kedro.io.data_catalog - INFO - Loading data from 'raw_stores' (PartitionedDataset)...
+2025-11-09 21:10:31,941 - kedro.pipeline.node - INFO - Running node: process_stores: process_store_master([raw_stores]) -> [intermediate_stores]
+2025-11-09 21:10:31,942 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Processing 3 store files
+2025-11-09 21:10:31,948 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Loaded 2 stores
+2025-11-09 21:10:31,952 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_stores' (ParquetDataset)...
+2025-11-09 21:10:31,956 - kedro.runner.sequential_runner - INFO - Completed 4 out of 7 tasks
+2025-11-09 21:10:31,957 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_sales' (ParquetDataset)...
+2025-11-09 21:10:31,974 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_deliveries' (ParquetDataset)...
+2025-11-09 21:10:31,988 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_products' (ParquetDataset)...
+2025-11-09 21:10:31,993 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_stores' (ParquetDataset)...
+2025-11-09 21:10:31,998 - kedro.io.data_catalog - INFO - Loading data from 'mapping_product' (ParquetDataset)...
+2025-11-09 21:10:32,001 - kedro.io.data_catalog - INFO - Loading data from 'mapping_store' (ParquetDataset)...
+2025-11-09 21:10:32,014 - kedro.pipeline.node - INFO - Running node: join_all_data: join_all_data([intermediate_sales,intermediate_deliveries,intermediate_products,intermediate_stores,mapping_product,mapping_store]) -> [primary_dataset]
+2025-11-09 21:10:32,015 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Joining all data sources
+2025-11-09 21:10:32,020 - coding_challenge.pipelines.etl_cosmos.nodes - INFO - Created 96 final records
+2025-11-09 21:10:32,042 - kedro.io.data_catalog - INFO - Saving data to 'primary_dataset' (ParquetDataset)...
+2025-11-09 21:10:32,050 - kedro.runner.sequential_runner - INFO - Completed 5 out of 7 tasks
+2025-11-09 21:10:32,050 - kedro.io.data_catalog - INFO - Loading data from 'primary_dataset' (ParquetDataset)...
+2025-11-09 21:10:32,075 - kedro.pipeline.node - INFO - Running node: create_app_dataset: create_app_dataset([primary_dataset]) -> [app_dataset]
+2025-11-09 21:10:32,092 - kedro.io.data_catalog - INFO - Saving data to 'app_dataset' (ParquetDataset)...
+2025-11-09 21:10:32,101 - kedro.runner.sequential_runner - INFO - Completed 6 out of 7 tasks
+2025-11-09 21:10:32,102 - kedro.io.data_catalog - INFO - Loading data from 'primary_dataset' (ParquetDataset)...
+2025-11-09 21:10:32,117 - kedro.pipeline.node - INFO - Running node: create_ml_dataset: create_ml_dataset([primary_dataset]) -> [ml_dataset]
+2025-11-09 21:10:32,128 - kedro.io.data_catalog - INFO - Saving data to 'ml_dataset' (ParquetDataset)...
+2025-11-09 21:10:32,133 - kedro.runner.sequential_runner - INFO - Completed 7 out of 7 tasks
+2025-11-09 21:10:32,133 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.
+2025-11-09 21:10:41,133 - kedro.framework.session.session - INFO - Kedro project coding-challenge
+2025-11-09 21:10:41,150 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\framework\session\session.py:267: KedroDeprecationWarning: TemplatedConfigLoader will be deprecated in Kedro 0.19. Please use the OmegaConfigLoader instead. To consult the documentation for OmegaConfigLoader, see here: https://docs.kedro.org/en/stable/configuration/advanced_configuration.html#omegaconfigloader
+  warnings.warn(
+
+2025-11-09 21:10:41,172 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 21:10:41,180 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 21:10:41,441 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1003_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-09 21:10:41,976 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 21:10:42,003 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1003_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-09 21:12:04,919 - kedro.framework.session.session - INFO - Kedro project coding-challenge
+2025-11-09 21:12:04,934 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\framework\session\session.py:267: KedroDeprecationWarning: TemplatedConfigLoader will be deprecated in Kedro 0.19. Please use the OmegaConfigLoader instead. To consult the documentation for OmegaConfigLoader, see here: https://docs.kedro.org/en/stable/configuration/advanced_configuration.html#omegaconfigloader
+  warnings.warn(
+
+2025-11-09 21:12:04,958 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 21:12:04,964 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 21:12:05,256 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1003_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-09 21:12:05,902 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 21:12:05,928 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1003_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-09 21:12:05,930 - kedro.io.data_catalog - INFO - Loading data from 'raw_deliveries_sales' (PartitionedDataset)...
+2025-11-09 21:12:05,931 - kedro.pipeline.node - INFO - Running node: process_deliveries_sales_json: process_deliveries_sales_json([raw_deliveries_sales]) -> [galaxy_intermediate_sales_deliveries]
+2025-11-09 21:12:05,932 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Processing 1 JSON files
+2025-11-09 21:12:05,940 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Processed 52 unique sales/delivery records
+2025-11-09 21:12:05,954 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_intermediate_sales_deliveries' (ParquetDataset)...
+2025-11-09 21:12:05,970 - kedro.runner.sequential_runner - INFO - Completed 1 out of 7 tasks
+2025-11-09 21:12:05,971 - kedro.io.data_catalog - INFO - Loading data from 'raw_prices' (PartitionedDataset)...
+2025-11-09 21:12:05,973 - kedro.pipeline.node - INFO - Running node: process_prices_json: process_prices_json([raw_prices]) -> [galaxy_intermediate_prices]
+2025-11-09 21:12:05,974 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Processing 1 price JSON files
+2025-11-09 21:12:05,975 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Loaded prices for 2 products
+2025-11-09 21:12:05,977 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_intermediate_prices' (ParquetDataset)...
+2025-11-09 21:12:05,980 - kedro.runner.sequential_runner - INFO - Completed 2 out of 7 tasks
+2025-11-09 21:12:05,981 - kedro.io.data_catalog - INFO - Loading data from 'raw_products' (PartitionedDataset)...
+2025-11-09 21:12:05,982 - kedro.pipeline.node - INFO - Running node: process_products_json: process_products_json([raw_products]) -> [galaxy_intermediate_products]
+2025-11-09 21:12:05,983 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Processing 1 product JSON files
+2025-11-09 21:12:05,984 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Loaded 2 products
+2025-11-09 21:12:05,988 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_intermediate_products' (ParquetDataset)...
+2025-11-09 21:12:05,991 - kedro.runner.sequential_runner - INFO - Completed 3 out of 7 tasks
+2025-11-09 21:12:05,991 - kedro.io.data_catalog - INFO - Loading data from 'raw_stores' (PartitionedDataset)...
+2025-11-09 21:12:05,992 - kedro.pipeline.node - INFO - Running node: process_stores_json: process_stores_json([raw_stores]) -> [galaxy_intermediate_stores]
+2025-11-09 21:12:05,993 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Processing 1 store JSON files
+2025-11-09 21:12:05,994 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Loaded 2 stores
+2025-11-09 21:12:05,998 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_intermediate_stores' (ParquetDataset)...
+2025-11-09 21:12:06,002 - kedro.runner.sequential_runner - INFO - Completed 4 out of 7 tasks
+2025-11-09 21:12:06,002 - kedro.io.data_catalog - INFO - Loading data from 'galaxy_intermediate_sales_deliveries' (ParquetDataset)...
+2025-11-09 21:12:06,022 - kedro.io.data_catalog - INFO - Loading data from 'galaxy_intermediate_products' (ParquetDataset)...
+2025-11-09 21:12:06,033 - kedro.io.data_catalog - INFO - Loading data from 'galaxy_intermediate_prices' (ParquetDataset)...
+2025-11-09 21:12:06,038 - kedro.io.data_catalog - INFO - Loading data from 'galaxy_intermediate_stores' (ParquetDataset)...
+2025-11-09 21:12:06,043 - kedro.io.data_catalog - INFO - Loading data from 'mapping_product' (ParquetDataset)...
+2025-11-09 21:12:06,046 - kedro.io.data_catalog - INFO - Loading data from 'mapping_store' (ParquetDataset)...
+2025-11-09 21:12:06,060 - kedro.pipeline.node - INFO - Running node: join_galaxy_data: join_galaxy_data([galaxy_intermediate_sales_deliveries,galaxy_intermediate_products,galaxy_intermediate_prices,galaxy_intermediate_stores,mapping_product,mapping_store]) -> [galaxy_primary_dataset]
+2025-11-09 21:12:06,061 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Joining all Galaxy data sources
+2025-11-09 21:12:06,065 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Created 52 final records
+2025-11-09 21:12:06,084 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_primary_dataset' (ParquetDataset)...
+2025-11-09 21:12:06,100 - kedro.runner.sequential_runner - INFO - Completed 5 out of 7 tasks
+2025-11-09 21:12:06,101 - kedro.io.data_catalog - INFO - Loading data from 'galaxy_primary_dataset' (ParquetDataset)...
+2025-11-09 21:12:06,126 - kedro.pipeline.node - INFO - Running node: galaxy_create_app_dataset: create_app_dataset([galaxy_primary_dataset]) -> [galaxy_app_dataset]
+2025-11-09 21:12:06,153 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_app_dataset' (ParquetDataset)...
+2025-11-09 21:12:06,164 - kedro.runner.sequential_runner - INFO - Completed 6 out of 7 tasks
+2025-11-09 21:12:06,165 - kedro.io.data_catalog - INFO - Loading data from 'galaxy_primary_dataset' (ParquetDataset)...
+2025-11-09 21:12:06,184 - kedro.pipeline.node - INFO - Running node: galaxy_create_ml_dataset: create_ml_dataset([galaxy_primary_dataset]) -> [galaxy_ml_dataset]
+2025-11-09 21:12:06,205 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_ml_dataset' (ParquetDataset)...
+2025-11-09 21:12:06,213 - kedro.runner.sequential_runner - INFO - Completed 7 out of 7 tasks
+2025-11-09 21:12:06,214 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.
+2025-11-09 21:12:28,517 - kedro.framework.session.session - INFO - Kedro project coding-challenge
+2025-11-09 21:12:28,535 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\framework\session\session.py:267: KedroDeprecationWarning: TemplatedConfigLoader will be deprecated in Kedro 0.19. Please use the OmegaConfigLoader instead. To consult the documentation for OmegaConfigLoader, see here: https://docs.kedro.org/en/stable/configuration/advanced_configuration.html#omegaconfigloader
+  warnings.warn(
+
+2025-11-09 21:12:28,559 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 21:12:28,565 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 21:12:28,841 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1003_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-09 21:12:29,355 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-09 21:12:29,392 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1003_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-09 21:12:29,392 - kedro.io.data_catalog - INFO - Loading data from 'raw_deliveries_sales' (PartitionedDataset)...
+2025-11-09 21:12:29,392 - kedro.pipeline.node - INFO - Running node: process_deliveries_sales_json: process_deliveries_sales_json([raw_deliveries_sales]) -> [galaxy_intermediate_sales_deliveries]
+2025-11-09 21:12:29,392 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Processing 1 JSON files
+2025-11-09 21:12:29,405 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Processed 52 unique sales/delivery records
+2025-11-09 21:12:29,418 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_intermediate_sales_deliveries' (ParquetDataset)...
+2025-11-09 21:12:29,434 - kedro.runner.sequential_runner - INFO - Completed 1 out of 7 tasks
+2025-11-09 21:12:29,436 - kedro.io.data_catalog - INFO - Loading data from 'raw_prices' (PartitionedDataset)...
+2025-11-09 21:12:29,437 - kedro.pipeline.node - INFO - Running node: process_prices_json: process_prices_json([raw_prices]) -> [galaxy_intermediate_prices]
+2025-11-09 21:12:29,438 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Processing 1 price JSON files
+2025-11-09 21:12:29,439 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Loaded prices for 2 products
+2025-11-09 21:12:29,442 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_intermediate_prices' (ParquetDataset)...
+2025-11-09 21:12:29,445 - kedro.runner.sequential_runner - INFO - Completed 2 out of 7 tasks
+2025-11-09 21:12:29,446 - kedro.io.data_catalog - INFO - Loading data from 'raw_products' (PartitionedDataset)...
+2025-11-09 21:12:29,447 - kedro.pipeline.node - INFO - Running node: process_products_json: process_products_json([raw_products]) -> [galaxy_intermediate_products]
+2025-11-09 21:12:29,448 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Processing 1 product JSON files
+2025-11-09 21:12:29,449 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Loaded 2 products
+2025-11-09 21:12:29,452 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_intermediate_products' (ParquetDataset)...
+2025-11-09 21:12:29,457 - kedro.runner.sequential_runner - INFO - Completed 3 out of 7 tasks
+2025-11-09 21:12:29,457 - kedro.io.data_catalog - INFO - Loading data from 'raw_stores' (PartitionedDataset)...
+2025-11-09 21:12:29,459 - kedro.pipeline.node - INFO - Running node: process_stores_json: process_stores_json([raw_stores]) -> [galaxy_intermediate_stores]
+2025-11-09 21:12:29,460 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Processing 1 store JSON files
+2025-11-09 21:12:29,460 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Loaded 2 stores
+2025-11-09 21:12:29,460 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_intermediate_stores' (ParquetDataset)...
+2025-11-09 21:12:29,468 - kedro.runner.sequential_runner - INFO - Completed 4 out of 7 tasks
+2025-11-09 21:12:29,468 - kedro.io.data_catalog - INFO - Loading data from 'galaxy_intermediate_sales_deliveries' (ParquetDataset)...
+2025-11-09 21:12:29,488 - kedro.io.data_catalog - INFO - Loading data from 'galaxy_intermediate_products' (ParquetDataset)...
+2025-11-09 21:12:29,492 - kedro.io.data_catalog - INFO - Loading data from 'galaxy_intermediate_prices' (ParquetDataset)...
+2025-11-09 21:12:29,495 - kedro.io.data_catalog - INFO - Loading data from 'galaxy_intermediate_stores' (ParquetDataset)...
+2025-11-09 21:12:29,499 - kedro.io.data_catalog - INFO - Loading data from 'mapping_product' (ParquetDataset)...
+2025-11-09 21:12:29,502 - kedro.io.data_catalog - INFO - Loading data from 'mapping_store' (ParquetDataset)...
+2025-11-09 21:12:29,510 - kedro.pipeline.node - INFO - Running node: join_galaxy_data: join_galaxy_data([galaxy_intermediate_sales_deliveries,galaxy_intermediate_products,galaxy_intermediate_prices,galaxy_intermediate_stores,mapping_product,mapping_store]) -> [galaxy_primary_dataset]
+2025-11-09 21:12:29,517 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Joining all Galaxy data sources
+2025-11-09 21:12:29,521 - coding_challenge.pipelines.etl_galaxy.nodes - INFO - Created 52 final records
+2025-11-09 21:12:29,544 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_primary_dataset' (ParquetDataset)...
+2025-11-09 21:12:29,559 - kedro.runner.sequential_runner - INFO - Completed 5 out of 7 tasks
+2025-11-09 21:12:29,559 - kedro.io.data_catalog - INFO - Loading data from 'galaxy_primary_dataset' (ParquetDataset)...
+2025-11-09 21:12:29,587 - kedro.pipeline.node - INFO - Running node: galaxy_create_app_dataset: create_app_dataset([galaxy_primary_dataset]) -> [galaxy_app_dataset]
+2025-11-09 21:12:29,608 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_app_dataset' (ParquetDataset)...
+2025-11-09 21:12:29,623 - kedro.runner.sequential_runner - INFO - Completed 6 out of 7 tasks
+2025-11-09 21:12:29,624 - kedro.io.data_catalog - INFO - Loading data from 'galaxy_primary_dataset' (ParquetDataset)...
+2025-11-09 21:12:29,641 - kedro.pipeline.node - INFO - Running node: galaxy_create_ml_dataset: create_ml_dataset([galaxy_primary_dataset]) -> [galaxy_ml_dataset]
+2025-11-09 21:12:29,657 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_ml_dataset' (ParquetDataset)...
+2025-11-09 21:12:29,668 - kedro.runner.sequential_runner - INFO - Completed 7 out of 7 tasks
+2025-11-09 21:12:29,669 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.
+2025-11-10 10:04:12,872 - kedro.framework.session.session - INFO - Kedro project coding-challenge
+2025-11-10 10:04:12,886 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\framework\session\session.py:267: KedroDeprecationWarning: TemplatedConfigLoader will be deprecated in Kedro 0.19. Please use the OmegaConfigLoader instead. To consult the documentation for OmegaConfigLoader, see here: https://docs.kedro.org/en/stable/configuration/advanced_configuration.html#omegaconfigloader
+  warnings.warn(
+
+2025-11-10 10:04:12,924 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-10 10:04:13,172 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-10 10:04:13,200 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1001_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-10 10:04:13,752 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1001_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-10 10:04:13,753 - kedro.io.data_catalog - INFO - Loading data from 'raw_deliveries' (PartitionedDataset)...
+2025-11-10 10:04:13,755 - kedro.pipeline.node - INFO - Running node: process_deliveries: process_delivery_files([raw_deliveries]) -> [intermediate_deliveries]
+2025-11-10 10:04:13,787 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:04:13,796 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:04:13,806 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:04:13,816 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:04:13,826 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:04:13,845 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_deliveries' (ParquetDataset)...
+2025-11-10 10:04:13,862 - kedro.runner.sequential_runner - INFO - Completed 1 out of 7 tasks
+2025-11-10 10:04:13,863 - kedro.io.data_catalog - INFO - Loading data from 'raw_products' (PartitionedDataset)...
+2025-11-10 10:04:13,865 - kedro.pipeline.node - INFO - Running node: process_products: process_product_master([raw_products]) -> [intermediate_products]
+2025-11-10 10:04:13,896 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_products' (ParquetDataset)...
+2025-11-10 10:04:13,901 - kedro.runner.sequential_runner - INFO - Completed 2 out of 7 tasks
+2025-11-10 10:04:13,902 - kedro.io.data_catalog - INFO - Loading data from 'raw_sales' (PartitionedDataset)...
+2025-11-10 10:04:13,904 - kedro.pipeline.node - INFO - Running node: process_sales: process_sales_files([raw_sales]) -> [intermediate_sales]
+2025-11-10 10:04:13,933 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:04:13,941 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:04:13,950 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:04:13,959 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:04:13,969 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_sales' (ParquetDataset)...
+2025-11-10 10:04:13,974 - kedro.runner.sequential_runner - INFO - Completed 3 out of 7 tasks
+2025-11-10 10:04:13,975 - kedro.io.data_catalog - INFO - Loading data from 'raw_stores' (PartitionedDataset)...
+2025-11-10 10:04:13,977 - kedro.pipeline.node - INFO - Running node: process_stores: process_store_master([raw_stores]) -> [intermediate_stores]
+2025-11-10 10:04:14,001 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_stores' (ParquetDataset)...
+2025-11-10 10:04:14,005 - kedro.runner.sequential_runner - INFO - Completed 4 out of 7 tasks
+2025-11-10 10:04:14,006 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_sales' (ParquetDataset)...
+2025-11-10 10:04:14,029 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_deliveries' (ParquetDataset)...
+2025-11-10 10:04:14,043 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_products' (ParquetDataset)...
+2025-11-10 10:04:14,053 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_stores' (ParquetDataset)...
+2025-11-10 10:04:14,067 - kedro.io.data_catalog - INFO - Loading data from 'mapping_product' (ParquetDataset)...
+2025-11-10 10:04:14,076 - kedro.io.data_catalog - INFO - Loading data from 'mapping_store' (ParquetDataset)...
+2025-11-10 10:04:14,096 - kedro.pipeline.node - INFO - Running node: join_all_data: join_all_data([intermediate_sales,intermediate_deliveries,intermediate_products,intermediate_stores,mapping_product,mapping_store]) -> [primary_dataset]
+2025-11-10 10:04:14,124 - kedro.io.data_catalog - INFO - Saving data to 'primary_dataset' (ParquetDataset)...
+2025-11-10 10:04:14,133 - kedro.runner.sequential_runner - INFO - Completed 5 out of 7 tasks
+2025-11-10 10:04:14,134 - kedro.io.data_catalog - INFO - Loading data from 'primary_dataset' (ParquetDataset)...
+2025-11-10 10:04:14,156 - kedro.pipeline.node - INFO - Running node: create_app_dataset: create_app_dataset([primary_dataset]) -> [app_dataset]
+2025-11-10 10:04:14,174 - kedro.io.data_catalog - INFO - Saving data to 'app_dataset' (ParquetDataset)...
+2025-11-10 10:04:14,183 - kedro.runner.sequential_runner - INFO - Completed 6 out of 7 tasks
+2025-11-10 10:04:14,184 - kedro.io.data_catalog - INFO - Loading data from 'primary_dataset' (ParquetDataset)...
+2025-11-10 10:04:14,198 - kedro.pipeline.node - INFO - Running node: create_ml_dataset: create_ml_dataset([primary_dataset]) -> [ml_dataset]
+2025-11-10 10:04:14,210 - kedro.io.data_catalog - INFO - Saving data to 'ml_dataset' (ParquetDataset)...
+2025-11-10 10:04:14,216 - kedro.runner.sequential_runner - INFO - Completed 7 out of 7 tasks
+2025-11-10 10:04:14,216 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.
+2025-11-10 10:04:51,953 - kedro.framework.session.session - INFO - Kedro project coding-challenge
+2025-11-10 10:04:51,967 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\framework\session\session.py:267: KedroDeprecationWarning: TemplatedConfigLoader will be deprecated in Kedro 0.19. Please use the OmegaConfigLoader instead. To consult the documentation for OmegaConfigLoader, see here: https://docs.kedro.org/en/stable/configuration/advanced_configuration.html#omegaconfigloader
+  warnings.warn(
+
+2025-11-10 10:04:51,993 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-10 10:04:52,227 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-10 10:04:52,255 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1002_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-10 10:04:52,831 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1002_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-10 10:04:52,832 - kedro.io.data_catalog - INFO - Loading data from 'raw_deliveries' (PartitionedDataset)...
+2025-11-10 10:04:52,834 - kedro.pipeline.node - INFO - Running node: process_deliveries: process_delivery_files([raw_deliveries]) -> [intermediate_deliveries]
+2025-11-10 10:04:52,852 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:04:52,862 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:04:52,873 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_deliveries' (ParquetDataset)...
+2025-11-10 10:04:52,887 - kedro.runner.sequential_runner - INFO - Completed 1 out of 7 tasks
+2025-11-10 10:04:52,888 - kedro.io.data_catalog - INFO - Loading data from 'raw_products' (PartitionedDataset)...
+2025-11-10 10:04:52,890 - kedro.pipeline.node - INFO - Running node: process_products: process_product_master([raw_products]) -> [intermediate_products]
+2025-11-10 10:04:52,912 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_products' (ParquetDataset)...
+2025-11-10 10:04:52,917 - kedro.runner.sequential_runner - INFO - Completed 2 out of 7 tasks
+2025-11-10 10:04:52,918 - kedro.io.data_catalog - INFO - Loading data from 'raw_sales' (PartitionedDataset)...
+2025-11-10 10:04:52,920 - kedro.pipeline.node - INFO - Running node: process_sales: process_sales_files([raw_sales]) -> [intermediate_sales]
+2025-11-10 10:04:52,935 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:04:52,944 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:04:52,954 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_sales' (ParquetDataset)...
+2025-11-10 10:04:52,959 - kedro.runner.sequential_runner - INFO - Completed 3 out of 7 tasks
+2025-11-10 10:04:52,960 - kedro.io.data_catalog - INFO - Loading data from 'raw_stores' (PartitionedDataset)...
+2025-11-10 10:04:52,962 - kedro.pipeline.node - INFO - Running node: process_stores: process_store_master([raw_stores]) -> [intermediate_stores]
+2025-11-10 10:04:52,979 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_stores' (ParquetDataset)...
+2025-11-10 10:04:52,983 - kedro.runner.sequential_runner - INFO - Completed 4 out of 7 tasks
+2025-11-10 10:04:52,984 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_sales' (ParquetDataset)...
+2025-11-10 10:04:53,009 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_deliveries' (ParquetDataset)...
+2025-11-10 10:04:53,021 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_products' (ParquetDataset)...
+2025-11-10 10:04:53,031 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_stores' (ParquetDataset)...
+2025-11-10 10:04:53,040 - kedro.io.data_catalog - INFO - Loading data from 'mapping_product' (ParquetDataset)...
+2025-11-10 10:04:53,050 - kedro.io.data_catalog - INFO - Loading data from 'mapping_store' (ParquetDataset)...
+2025-11-10 10:04:53,067 - kedro.pipeline.node - INFO - Running node: join_all_data: join_all_data([intermediate_sales,intermediate_deliveries,intermediate_products,intermediate_stores,mapping_product,mapping_store]) -> [primary_dataset]
+2025-11-10 10:04:53,094 - kedro.io.data_catalog - INFO - Saving data to 'primary_dataset' (ParquetDataset)...
+2025-11-10 10:04:53,103 - kedro.runner.sequential_runner - INFO - Completed 5 out of 7 tasks
+2025-11-10 10:04:53,104 - kedro.io.data_catalog - INFO - Loading data from 'primary_dataset' (ParquetDataset)...
+2025-11-10 10:04:53,125 - kedro.pipeline.node - INFO - Running node: create_app_dataset: create_app_dataset([primary_dataset]) -> [app_dataset]
+2025-11-10 10:04:53,142 - kedro.io.data_catalog - INFO - Saving data to 'app_dataset' (ParquetDataset)...
+2025-11-10 10:04:53,151 - kedro.runner.sequential_runner - INFO - Completed 6 out of 7 tasks
+2025-11-10 10:04:53,152 - kedro.io.data_catalog - INFO - Loading data from 'primary_dataset' (ParquetDataset)...
+2025-11-10 10:04:53,166 - kedro.pipeline.node - INFO - Running node: create_ml_dataset: create_ml_dataset([primary_dataset]) -> [ml_dataset]
+2025-11-10 10:04:53,178 - kedro.io.data_catalog - INFO - Saving data to 'ml_dataset' (ParquetDataset)...
+2025-11-10 10:04:53,183 - kedro.runner.sequential_runner - INFO - Completed 7 out of 7 tasks
+2025-11-10 10:04:53,184 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.
+2025-11-10 10:05:07,367 - kedro.framework.session.session - INFO - Kedro project coding-challenge
+2025-11-10 10:05:07,380 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\framework\session\session.py:267: KedroDeprecationWarning: TemplatedConfigLoader will be deprecated in Kedro 0.19. Please use the OmegaConfigLoader instead. To consult the documentation for OmegaConfigLoader, see here: https://docs.kedro.org/en/stable/configuration/advanced_configuration.html#omegaconfigloader
+  warnings.warn(
+
+2025-11-10 10:05:07,406 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-10 10:05:07,413 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-10 10:05:07,669 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1003_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-10 10:05:08,252 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-10 10:05:08,278 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1003_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-10 10:05:08,280 - kedro.io.data_catalog - INFO - Loading data from 'raw_deliveries_sales' (PartitionedDataset)...
+2025-11-10 10:05:08,282 - kedro.pipeline.node - INFO - Running node: process_deliveries_sales_json: process_deliveries_sales_json([raw_deliveries_sales]) -> [galaxy_intermediate_sales_deliveries]
+2025-11-10 10:05:08,313 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_intermediate_sales_deliveries' (ParquetDataset)...
+2025-11-10 10:05:08,331 - kedro.runner.sequential_runner - INFO - Completed 1 out of 7 tasks
+2025-11-10 10:05:08,332 - kedro.io.data_catalog - INFO - Loading data from 'raw_prices' (PartitionedDataset)...
+2025-11-10 10:05:08,333 - kedro.pipeline.node - INFO - Running node: process_prices_json: process_prices_json([raw_prices]) -> [galaxy_intermediate_prices]
+2025-11-10 10:05:08,345 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_intermediate_prices' (ParquetDataset)...
+2025-11-10 10:05:08,348 - kedro.runner.sequential_runner - INFO - Completed 2 out of 7 tasks
+2025-11-10 10:05:08,350 - kedro.io.data_catalog - INFO - Loading data from 'raw_products' (PartitionedDataset)...
+2025-11-10 10:05:08,351 - kedro.pipeline.node - INFO - Running node: process_products_json: process_products_json([raw_products]) -> [galaxy_intermediate_products]
+2025-11-10 10:05:08,363 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_intermediate_products' (ParquetDataset)...
+2025-11-10 10:05:08,367 - kedro.runner.sequential_runner - INFO - Completed 3 out of 7 tasks
+2025-11-10 10:05:08,368 - kedro.io.data_catalog - INFO - Loading data from 'raw_stores' (PartitionedDataset)...
+2025-11-10 10:05:08,369 - kedro.pipeline.node - INFO - Running node: process_stores_json: process_stores_json([raw_stores]) -> [galaxy_intermediate_stores]
+2025-11-10 10:05:08,381 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_intermediate_stores' (ParquetDataset)...
+2025-11-10 10:05:08,385 - kedro.runner.sequential_runner - INFO - Completed 4 out of 7 tasks
+2025-11-10 10:05:08,386 - kedro.io.data_catalog - INFO - Loading data from 'galaxy_intermediate_sales_deliveries' (ParquetDataset)...
+2025-11-10 10:05:08,413 - kedro.io.data_catalog - INFO - Loading data from 'galaxy_intermediate_products' (ParquetDataset)...
+2025-11-10 10:05:08,423 - kedro.io.data_catalog - INFO - Loading data from 'galaxy_intermediate_prices' (ParquetDataset)...
+2025-11-10 10:05:08,432 - kedro.io.data_catalog - INFO - Loading data from 'galaxy_intermediate_stores' (ParquetDataset)...
+2025-11-10 10:05:08,440 - kedro.io.data_catalog - INFO - Loading data from 'mapping_product' (ParquetDataset)...
+2025-11-10 10:05:08,450 - kedro.io.data_catalog - INFO - Loading data from 'mapping_store' (ParquetDataset)...
+2025-11-10 10:05:08,471 - kedro.pipeline.node - INFO - Running node: join_galaxy_data: join_galaxy_data([galaxy_intermediate_sales_deliveries,galaxy_intermediate_products,galaxy_intermediate_prices,galaxy_intermediate_stores,mapping_product,mapping_store]) -> [galaxy_primary_dataset]
+2025-11-10 10:05:08,509 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_primary_dataset' (ParquetDataset)...
+2025-11-10 10:05:08,522 - kedro.runner.sequential_runner - INFO - Completed 5 out of 7 tasks
+2025-11-10 10:05:08,523 - kedro.io.data_catalog - INFO - Loading data from 'galaxy_primary_dataset' (ParquetDataset)...
+2025-11-10 10:05:08,554 - kedro.pipeline.node - INFO - Running node: galaxy_create_app_dataset: create_app_dataset([galaxy_primary_dataset]) -> [galaxy_app_dataset]
+2025-11-10 10:05:08,586 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_app_dataset' (ParquetDataset)...
+2025-11-10 10:05:08,599 - kedro.runner.sequential_runner - INFO - Completed 6 out of 7 tasks
+2025-11-10 10:05:08,600 - kedro.io.data_catalog - INFO - Loading data from 'galaxy_primary_dataset' (ParquetDataset)...
+2025-11-10 10:05:08,623 - kedro.pipeline.node - INFO - Running node: galaxy_create_ml_dataset: create_ml_dataset([galaxy_primary_dataset]) -> [galaxy_ml_dataset]
+2025-11-10 10:05:08,642 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_ml_dataset' (ParquetDataset)...
+2025-11-10 10:05:08,648 - kedro.runner.sequential_runner - INFO - Completed 7 out of 7 tasks
+2025-11-10 10:05:08,649 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.
+2025-11-10 10:12:40,935 - kedro.framework.session.session - INFO - Kedro project coding-challenge
+2025-11-10 10:12:40,950 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\framework\session\session.py:267: KedroDeprecationWarning: TemplatedConfigLoader will be deprecated in Kedro 0.19. Please use the OmegaConfigLoader instead. To consult the documentation for OmegaConfigLoader, see here: https://docs.kedro.org/en/stable/configuration/advanced_configuration.html#omegaconfigloader
+  warnings.warn(
+
+2025-11-10 10:12:40,976 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-10 10:12:41,214 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-10 10:12:41,241 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1001_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-10 10:12:41,783 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1001_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-10 10:12:41,784 - kedro.io.data_catalog - INFO - Loading data from 'raw_deliveries' (PartitionedDataset)...
+2025-11-10 10:12:41,785 - kedro.runner.sequential_runner - WARNING - No nodes ran. Repeat the previous command to attempt a new run.
+2025-11-10 10:13:07,669 - kedro.framework.session.session - INFO - Kedro project coding-challenge
+2025-11-10 10:13:07,684 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\framework\session\session.py:267: KedroDeprecationWarning: TemplatedConfigLoader will be deprecated in Kedro 0.19. Please use the OmegaConfigLoader instead. To consult the documentation for OmegaConfigLoader, see here: https://docs.kedro.org/en/stable/configuration/advanced_configuration.html#omegaconfigloader
+  warnings.warn(
+
+2025-11-10 10:13:07,709 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-10 10:13:07,949 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-10 10:13:07,975 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1001_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-10 10:13:08,543 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1001_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-10 10:13:08,545 - kedro.io.data_catalog - INFO - Loading data from 'raw_deliveries' (PartitionedDataset)...
+2025-11-10 10:13:08,546 - kedro.pipeline.node - INFO - Running node: process_deliveries: process_delivery_files([raw_deliveries]) -> [intermediate_deliveries]
+2025-11-10 10:13:08,553 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:13:08,555 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:13:08,558 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:13:08,561 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:13:08,563 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:13:08,576 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_deliveries' (ParquetDataset)...
+2025-11-10 10:13:08,588 - kedro.runner.sequential_runner - INFO - Completed 1 out of 7 tasks
+2025-11-10 10:13:08,589 - kedro.io.data_catalog - INFO - Loading data from 'raw_products' (PartitionedDataset)...
+2025-11-10 10:13:08,590 - kedro.pipeline.node - INFO - Running node: process_products: process_product_master([raw_products]) -> [intermediate_products]
+2025-11-10 10:13:08,602 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_products' (ParquetDataset)...
+2025-11-10 10:13:08,606 - kedro.runner.sequential_runner - INFO - Completed 2 out of 7 tasks
+2025-11-10 10:13:08,607 - kedro.io.data_catalog - INFO - Loading data from 'raw_sales' (PartitionedDataset)...
+2025-11-10 10:13:08,608 - kedro.pipeline.node - INFO - Running node: process_sales: process_sales_files([raw_sales]) -> [intermediate_sales]
+2025-11-10 10:13:08,612 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:13:08,615 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:13:08,617 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:13:08,620 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:13:08,629 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_sales' (ParquetDataset)...
+2025-11-10 10:13:08,633 - kedro.runner.sequential_runner - INFO - Completed 3 out of 7 tasks
+2025-11-10 10:13:08,634 - kedro.io.data_catalog - INFO - Loading data from 'raw_stores' (PartitionedDataset)...
+2025-11-10 10:13:08,635 - kedro.pipeline.node - INFO - Running node: process_stores: process_store_master([raw_stores]) -> [intermediate_stores]
+2025-11-10 10:13:08,647 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_stores' (ParquetDataset)...
+2025-11-10 10:13:08,650 - kedro.runner.sequential_runner - INFO - Completed 4 out of 7 tasks
+2025-11-10 10:13:08,651 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_sales' (ParquetDataset)...
+2025-11-10 10:13:08,666 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_deliveries' (ParquetDataset)...
+2025-11-10 10:13:08,672 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_products' (ParquetDataset)...
+2025-11-10 10:13:08,676 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_stores' (ParquetDataset)...
+2025-11-10 10:13:08,680 - kedro.io.data_catalog - INFO - Loading data from 'mapping_product' (ParquetDataset)...
+2025-11-10 10:13:08,683 - kedro.io.data_catalog - INFO - Loading data from 'mapping_store' (ParquetDataset)...
+2025-11-10 10:13:08,696 - kedro.pipeline.node - INFO - Running node: join_all_data: join_all_data([intermediate_sales,intermediate_deliveries,intermediate_products,intermediate_stores,mapping_product,mapping_store]) -> [primary_dataset]
+2025-11-10 10:13:08,722 - kedro.io.data_catalog - INFO - Saving data to 'primary_dataset' (ParquetDataset)...
+2025-11-10 10:13:08,730 - kedro.runner.sequential_runner - INFO - Completed 5 out of 7 tasks
+2025-11-10 10:13:08,731 - kedro.io.data_catalog - INFO - Loading data from 'primary_dataset' (ParquetDataset)...
+2025-11-10 10:13:08,750 - kedro.pipeline.node - INFO - Running node: create_app_dataset: create_app_dataset([primary_dataset]) -> [app_dataset]
+2025-11-10 10:13:08,766 - kedro.io.data_catalog - INFO - Saving data to 'app_dataset' (ParquetDataset)...
+2025-11-10 10:13:08,774 - kedro.runner.sequential_runner - INFO - Completed 6 out of 7 tasks
+2025-11-10 10:13:08,774 - kedro.io.data_catalog - INFO - Loading data from 'primary_dataset' (ParquetDataset)...
+2025-11-10 10:13:08,787 - kedro.pipeline.node - INFO - Running node: create_ml_dataset: create_ml_dataset([primary_dataset]) -> [ml_dataset]
+2025-11-10 10:13:08,798 - kedro.io.data_catalog - INFO - Saving data to 'ml_dataset' (ParquetDataset)...
+2025-11-10 10:13:08,803 - kedro.runner.sequential_runner - INFO - Completed 7 out of 7 tasks
+2025-11-10 10:13:08,803 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.
+2025-11-10 10:21:18,896 - kedro.framework.session.session - INFO - Kedro project coding-challenge
+2025-11-10 10:21:18,910 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\framework\session\session.py:267: KedroDeprecationWarning: TemplatedConfigLoader will be deprecated in Kedro 0.19. Please use the OmegaConfigLoader instead. To consult the documentation for OmegaConfigLoader, see here: https://docs.kedro.org/en/stable/configuration/advanced_configuration.html#omegaconfigloader
+  warnings.warn(
+
+2025-11-10 10:21:18,935 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-10 10:21:19,172 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-10 10:21:19,200 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1001_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-10 10:21:19,793 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1001_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-10 10:21:19,794 - kedro.io.data_catalog - INFO - Loading data from 'raw_deliveries' (PartitionedDataset)...
+2025-11-10 10:21:19,796 - kedro.pipeline.node - INFO - Running node: process_deliveries: process_delivery_files([raw_deliveries]) -> [intermediate_deliveries]
+2025-11-10 10:21:19,802 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:21:19,805 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:21:19,807 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:21:19,809 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:21:19,811 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:21:19,824 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_deliveries' (ParquetDataset)...
+2025-11-10 10:21:19,840 - kedro.runner.sequential_runner - INFO - Completed 1 out of 7 tasks
+2025-11-10 10:21:19,841 - kedro.io.data_catalog - INFO - Loading data from 'raw_products' (PartitionedDataset)...
+2025-11-10 10:21:19,842 - kedro.pipeline.node - INFO - Running node: process_products: process_product_master([raw_products]) -> [intermediate_products]
+2025-11-10 10:21:19,855 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_products' (ParquetDataset)...
+2025-11-10 10:21:19,859 - kedro.runner.sequential_runner - INFO - Completed 2 out of 7 tasks
+2025-11-10 10:21:19,860 - kedro.io.data_catalog - INFO - Loading data from 'raw_sales' (PartitionedDataset)...
+2025-11-10 10:21:19,861 - kedro.pipeline.node - INFO - Running node: process_sales: process_sales_files([raw_sales]) -> [intermediate_sales]
+2025-11-10 10:21:19,867 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:21:19,869 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:21:19,872 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:21:19,874 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:21:19,884 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_sales' (ParquetDataset)...
+2025-11-10 10:21:19,889 - kedro.runner.sequential_runner - INFO - Completed 3 out of 7 tasks
+2025-11-10 10:21:19,890 - kedro.io.data_catalog - INFO - Loading data from 'raw_stores' (PartitionedDataset)...
+2025-11-10 10:21:19,891 - kedro.pipeline.node - INFO - Running node: process_stores: process_store_master([raw_stores]) -> [intermediate_stores]
+2025-11-10 10:21:19,905 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_stores' (ParquetDataset)...
+2025-11-10 10:21:19,909 - kedro.runner.sequential_runner - INFO - Completed 4 out of 7 tasks
+2025-11-10 10:21:19,910 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_sales' (ParquetDataset)...
+2025-11-10 10:21:19,933 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_deliveries' (ParquetDataset)...
+2025-11-10 10:21:19,939 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_products' (ParquetDataset)...
+2025-11-10 10:21:19,944 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_stores' (ParquetDataset)...
+2025-11-10 10:21:19,949 - kedro.io.data_catalog - INFO - Loading data from 'mapping_product' (ParquetDataset)...
+2025-11-10 10:21:19,952 - kedro.io.data_catalog - INFO - Loading data from 'mapping_store' (ParquetDataset)...
+2025-11-10 10:21:19,966 - kedro.pipeline.node - INFO - Running node: join_all_data: join_all_data([intermediate_sales,intermediate_deliveries,intermediate_products,intermediate_stores,mapping_product,mapping_store]) -> [primary_dataset]
+2025-11-10 10:21:19,994 - kedro.io.data_catalog - INFO - Saving data to 'primary_dataset' (ParquetDataset)...
+2025-11-10 10:21:20,004 - kedro.runner.sequential_runner - INFO - Completed 5 out of 7 tasks
+2025-11-10 10:21:20,005 - kedro.io.data_catalog - INFO - Loading data from 'primary_dataset' (ParquetDataset)...
+2025-11-10 10:21:20,029 - kedro.pipeline.node - INFO - Running node: create_app_dataset: create_app_dataset([primary_dataset]) -> [app_dataset]
+2025-11-10 10:21:20,048 - kedro.io.data_catalog - INFO - Saving data to 'app_dataset' (ParquetDataset)...
+2025-11-10 10:21:20,057 - kedro.runner.sequential_runner - INFO - Completed 6 out of 7 tasks
+2025-11-10 10:21:20,058 - kedro.io.data_catalog - INFO - Loading data from 'primary_dataset' (ParquetDataset)...
+2025-11-10 10:21:20,073 - kedro.pipeline.node - INFO - Running node: create_ml_dataset: create_ml_dataset([primary_dataset]) -> [ml_dataset]
+2025-11-10 10:21:20,086 - kedro.io.data_catalog - INFO - Saving data to 'ml_dataset' (ParquetDataset)...
+2025-11-10 10:21:20,091 - kedro.runner.sequential_runner - INFO - Completed 7 out of 7 tasks
+2025-11-10 10:21:20,092 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.
+2025-11-10 10:21:25,239 - kedro.framework.session.session - INFO - Kedro project coding-challenge
+2025-11-10 10:21:25,253 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\framework\session\session.py:267: KedroDeprecationWarning: TemplatedConfigLoader will be deprecated in Kedro 0.19. Please use the OmegaConfigLoader instead. To consult the documentation for OmegaConfigLoader, see here: https://docs.kedro.org/en/stable/configuration/advanced_configuration.html#omegaconfigloader
+  warnings.warn(
+
+2025-11-10 10:21:25,280 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-10 10:21:25,515 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-10 10:21:25,544 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1002_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-10 10:21:26,112 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1002_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-10 10:21:26,113 - kedro.io.data_catalog - INFO - Loading data from 'raw_deliveries' (PartitionedDataset)...
+2025-11-10 10:21:26,115 - kedro.pipeline.node - INFO - Running node: process_deliveries: process_delivery_files([raw_deliveries]) -> [intermediate_deliveries]
+2025-11-10 10:21:26,120 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:21:26,123 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:21:26,133 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_deliveries' (ParquetDataset)...
+2025-11-10 10:21:26,150 - kedro.runner.sequential_runner - INFO - Completed 1 out of 7 tasks
+2025-11-10 10:21:26,151 - kedro.io.data_catalog - INFO - Loading data from 'raw_products' (PartitionedDataset)...
+2025-11-10 10:21:26,153 - kedro.pipeline.node - INFO - Running node: process_products: process_product_master([raw_products]) -> [intermediate_products]
+2025-11-10 10:21:26,162 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_products' (ParquetDataset)...
+2025-11-10 10:21:26,167 - kedro.runner.sequential_runner - INFO - Completed 2 out of 7 tasks
+2025-11-10 10:21:26,168 - kedro.io.data_catalog - INFO - Loading data from 'raw_sales' (PartitionedDataset)...
+2025-11-10 10:21:26,169 - kedro.pipeline.node - INFO - Running node: process_sales: process_sales_files([raw_sales]) -> [intermediate_sales]
+2025-11-10 10:21:26,172 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:21:26,175 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:163: UserWarning: Parsing dates in %Y-%m-%d format when dayfirst=True was specified. Pass `dayfirst=False` or specify a format to silence this warning.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-11-10 10:21:26,185 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_sales' (ParquetDataset)...
+2025-11-10 10:21:26,191 - kedro.runner.sequential_runner - INFO - Completed 3 out of 7 tasks
+2025-11-10 10:21:26,192 - kedro.io.data_catalog - INFO - Loading data from 'raw_stores' (PartitionedDataset)...
+2025-11-10 10:21:26,193 - kedro.pipeline.node - INFO - Running node: process_stores: process_store_master([raw_stores]) -> [intermediate_stores]
+2025-11-10 10:21:26,202 - kedro.io.data_catalog - INFO - Saving data to 'intermediate_stores' (ParquetDataset)...
+2025-11-10 10:21:26,207 - kedro.runner.sequential_runner - INFO - Completed 4 out of 7 tasks
+2025-11-10 10:21:26,208 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_sales' (ParquetDataset)...
+2025-11-10 10:21:26,237 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_deliveries' (ParquetDataset)...
+2025-11-10 10:21:26,242 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_products' (ParquetDataset)...
+2025-11-10 10:21:26,254 - kedro.io.data_catalog - INFO - Loading data from 'intermediate_stores' (ParquetDataset)...
+2025-11-10 10:21:26,259 - kedro.io.data_catalog - INFO - Loading data from 'mapping_product' (ParquetDataset)...
+2025-11-10 10:21:26,262 - kedro.io.data_catalog - INFO - Loading data from 'mapping_store' (ParquetDataset)...
+2025-11-10 10:21:26,274 - kedro.pipeline.node - INFO - Running node: join_all_data: join_all_data([intermediate_sales,intermediate_deliveries,intermediate_products,intermediate_stores,mapping_product,mapping_store]) -> [primary_dataset]
+2025-11-10 10:21:26,302 - kedro.io.data_catalog - INFO - Saving data to 'primary_dataset' (ParquetDataset)...
+2025-11-10 10:21:26,311 - kedro.runner.sequential_runner - INFO - Completed 5 out of 7 tasks
+2025-11-10 10:21:26,312 - kedro.io.data_catalog - INFO - Loading data from 'primary_dataset' (ParquetDataset)...
+2025-11-10 10:21:26,335 - kedro.pipeline.node - INFO - Running node: create_app_dataset: create_app_dataset([primary_dataset]) -> [app_dataset]
+2025-11-10 10:21:26,353 - kedro.io.data_catalog - INFO - Saving data to 'app_dataset' (ParquetDataset)...
+2025-11-10 10:21:26,362 - kedro.runner.sequential_runner - INFO - Completed 6 out of 7 tasks
+2025-11-10 10:21:26,363 - kedro.io.data_catalog - INFO - Loading data from 'primary_dataset' (ParquetDataset)...
+2025-11-10 10:21:26,377 - kedro.pipeline.node - INFO - Running node: create_ml_dataset: create_ml_dataset([primary_dataset]) -> [ml_dataset]
+2025-11-10 10:21:26,389 - kedro.io.data_catalog - INFO - Saving data to 'ml_dataset' (ParquetDataset)...
+2025-11-10 10:21:26,394 - kedro.runner.sequential_runner - INFO - Completed 7 out of 7 tasks
+2025-11-10 10:21:26,395 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.
+2025-11-10 10:21:32,331 - kedro.framework.session.session - INFO - Kedro project coding-challenge
+2025-11-10 10:21:32,344 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\framework\session\session.py:267: KedroDeprecationWarning: TemplatedConfigLoader will be deprecated in Kedro 0.19. Please use the OmegaConfigLoader instead. To consult the documentation for OmegaConfigLoader, see here: https://docs.kedro.org/en/stable/configuration/advanced_configuration.html#omegaconfigloader
+  warnings.warn(
+
+2025-11-10 10:21:32,368 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-10 10:21:32,374 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-10 10:21:32,620 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1003_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-10 10:21:33,148 - py.warnings - WARNING - c:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\.venv\lib\site-packages\kedro\io\partitioned_dataset.py:200: KedroDeprecationWarning: 'PartitionedDataset' has been moved to `kedro-datasets` and will be removed in Kedro 0.19.0.
+  warnings.warn(
+
+2025-11-10 10:21:33,173 - kedro.config.common - INFO - Config from path 'C:\Users\marcc\Downloads\aiperia\coding-challenge-de-main\coding-challenge-de-main\coding-challenge\conf\1003_customer' will override the following existing top-level config keys: check_empty_sales_log
+2025-11-10 10:21:33,175 - kedro.io.data_catalog - INFO - Loading data from 'raw_deliveries_sales' (PartitionedDataset)...
+2025-11-10 10:21:33,176 - kedro.pipeline.node - INFO - Running node: process_deliveries_sales_json: process_deliveries_sales_json([raw_deliveries_sales]) -> [galaxy_intermediate_sales_deliveries]
+2025-11-10 10:21:33,198 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_intermediate_sales_deliveries' (ParquetDataset)...
+2025-11-10 10:21:33,215 - kedro.runner.sequential_runner - INFO - Completed 1 out of 7 tasks
+2025-11-10 10:21:33,216 - kedro.io.data_catalog - INFO - Loading data from 'raw_prices' (PartitionedDataset)...
+2025-11-10 10:21:33,217 - kedro.pipeline.node - INFO - Running node: process_prices_json: process_prices_json([raw_prices]) -> [galaxy_intermediate_prices]
+2025-11-10 10:21:33,221 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_intermediate_prices' (ParquetDataset)...
+2025-11-10 10:21:33,224 - kedro.runner.sequential_runner - INFO - Completed 2 out of 7 tasks
+2025-11-10 10:21:33,225 - kedro.io.data_catalog - INFO - Loading data from 'raw_products' (PartitionedDataset)...
+2025-11-10 10:21:33,226 - kedro.pipeline.node - INFO - Running node: process_products_json: process_products_json([raw_products]) -> [galaxy_intermediate_products]
+2025-11-10 10:21:33,231 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_intermediate_products' (ParquetDataset)...
+2025-11-10 10:21:33,234 - kedro.runner.sequential_runner - INFO - Completed 3 out of 7 tasks
+2025-11-10 10:21:33,235 - kedro.io.data_catalog - INFO - Loading data from 'raw_stores' (PartitionedDataset)...
+2025-11-10 10:21:33,236 - kedro.pipeline.node - INFO - Running node: process_stores_json: process_stores_json([raw_stores]) -> [galaxy_intermediate_stores]
+2025-11-10 10:21:33,240 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_intermediate_stores' (ParquetDataset)...
+2025-11-10 10:21:33,244 - kedro.runner.sequential_runner - INFO - Completed 4 out of 7 tasks
+2025-11-10 10:21:33,245 - kedro.io.data_catalog - INFO - Loading data from 'galaxy_intermediate_sales_deliveries' (ParquetDataset)...
+2025-11-10 10:21:33,265 - kedro.io.data_catalog - INFO - Loading data from 'galaxy_intermediate_products' (ParquetDataset)...
+2025-11-10 10:21:33,277 - kedro.io.data_catalog - INFO - Loading data from 'galaxy_intermediate_prices' (ParquetDataset)...
+2025-11-10 10:21:33,281 - kedro.io.data_catalog - INFO - Loading data from 'galaxy_intermediate_stores' (ParquetDataset)...
+2025-11-10 10:21:33,286 - kedro.io.data_catalog - INFO - Loading data from 'mapping_product' (ParquetDataset)...
+2025-11-10 10:21:33,289 - kedro.io.data_catalog - INFO - Loading data from 'mapping_store' (ParquetDataset)...
+2025-11-10 10:21:33,304 - kedro.pipeline.node - INFO - Running node: join_galaxy_data: join_galaxy_data([galaxy_intermediate_sales_deliveries,galaxy_intermediate_products,galaxy_intermediate_prices,galaxy_intermediate_stores,mapping_product,mapping_store]) -> [galaxy_primary_dataset]
+2025-11-10 10:21:33,339 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_primary_dataset' (ParquetDataset)...
+2025-11-10 10:21:33,352 - kedro.runner.sequential_runner - INFO - Completed 5 out of 7 tasks
+2025-11-10 10:21:33,353 - kedro.io.data_catalog - INFO - Loading data from 'galaxy_primary_dataset' (ParquetDataset)...
+2025-11-10 10:21:33,380 - kedro.pipeline.node - INFO - Running node: galaxy_create_app_dataset: create_app_dataset([galaxy_primary_dataset]) -> [galaxy_app_dataset]
+2025-11-10 10:21:33,408 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_app_dataset' (ParquetDataset)...
+2025-11-10 10:21:33,421 - kedro.runner.sequential_runner - INFO - Completed 6 out of 7 tasks
+2025-11-10 10:21:33,422 - kedro.io.data_catalog - INFO - Loading data from 'galaxy_primary_dataset' (ParquetDataset)...
+2025-11-10 10:21:33,443 - kedro.pipeline.node - INFO - Running node: galaxy_create_ml_dataset: create_ml_dataset([galaxy_primary_dataset]) -> [galaxy_ml_dataset]
+2025-11-10 10:21:33,461 - kedro.io.data_catalog - INFO - Saving data to 'galaxy_ml_dataset' (ParquetDataset)...
+2025-11-10 10:21:33,467 - kedro.runner.sequential_runner - INFO - Completed 7 out of 7 tasks
+2025-11-10 10:21:33,468 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.

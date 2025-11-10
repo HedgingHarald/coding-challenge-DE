@@ -1,0 +1,83 @@
+
+raw_sales:
+  type: PartitionedDataset
+  path: ${filepath_prefix}/00_sales
+  dataset:
+    type: kedro_datasets.pandas.CSVDataset
+    load_args:
+      sep: ';'
+      decimal: ","
+      encoding: "cp1250"
+      parse_dates: ["Datum"]
+      dayfirst: true
+  filename_suffix: ".csv"
+
+raw_deliveries:
+  type: PartitionedDataset
+  path: ${filepath_prefix}/00_deliveries
+  dataset:
+    type: kedro_datasets.pandas.CSVDataset
+    load_args:
+      sep: ';'
+      encoding: "cp1250"
+      parse_dates: ["Datum"]
+      dayfirst: true
+  filename_suffix: ".csv"
+
+raw_products:
+  type: PartitionedDataset
+  path: ${filepath_prefix}/00_products
+  dataset:
+    type: kedro_datasets.pandas.CSVDataset
+    load_args:
+      sep: ';'
+      decimal: ","
+      encoding: "cp1250"
+  filename_suffix: ".csv"
+
+raw_stores:
+  type: PartitionedDataset
+  path: ${filepath_prefix}/00_stores
+  dataset:
+    type: kedro_datasets.pandas.CSVDataset
+    load_args:
+      sep: ';'
+      encoding: "cp1250"
+  filename_suffix: ".csv"
+
+# Mapping tables (parquet files)
+mapping_product:
+  type: kedro_datasets.pandas.ParquetDataset
+  filepath: ${filepath_prefix}/01_mappings/mapping_product.parquet
+
+mapping_store:
+  type: kedro_datasets.pandas.ParquetDataset
+  filepath: ${filepath_prefix}/01_mappings/mapping_store.parquet
+
+intermediate_sales:
+  type: kedro_datasets.pandas.ParquetDataset
+  filepath: ${filepath_prefix}/02_intermediate/sales.parquet
+
+intermediate_deliveries:
+  type: kedro_datasets.pandas.ParquetDataset
+  filepath: ${filepath_prefix}/02_intermediate/deliveries.parquet
+
+intermediate_products:
+  type: kedro_datasets.pandas.ParquetDataset
+  filepath: ${filepath_prefix}/02_intermediate/products.parquet
+
+intermediate_stores:
+  type: kedro_datasets.pandas.ParquetDataset
+  filepath: ${filepath_prefix}/02_intermediate/stores.parquet
+
+primary_dataset:
+  type: kedro_datasets.pandas.ParquetDataset
+  filepath: ${filepath_prefix}/03_primary/complete_dataset.parquet
+
+ml_dataset:
+  type: kedro_datasets.pandas.ParquetDataset
+  filepath: ${filepath_prefix}/03_primary/ml_dataset.parquet
+
+app_dataset:
+  type: kedro_datasets.pandas.ParquetDataset
+  filepath: ${filepath_prefix}/03_primary/app_dataset.parquet
